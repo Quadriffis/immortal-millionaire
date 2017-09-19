@@ -19,6 +19,12 @@ Section 1: Immortal
 	- Intermittent fasting
 	- Multi-day fasts
 	- Fast mimicking diet
+- Physical conditioning
+	- HIIT
+	- Mobility
+- Aesthetics
+	- Skin prevent/repair
+	- Hair prevent/repair
 - Templates
 	- Losing a moderate amount of weight
 	- Losing large amounts of weight
@@ -31,3 +37,28 @@ Section 1: Immortal
 	- Lithium
 	- Vitamin D
 	- Collagen
+
+Section 2: Millionaire
+
+- Financial goal setting
+	- Personal budgeting
+	- Financial independence
+	- Psychological freedom
+- Budgeting
+	- The goal is freedom
+	- Automate everything
+	- Embrace human nature (guilt free acc)
+- Calculating freedom
+	- Desire: Yearly desired income
+	- Goal: 3% rule nest egg
+	- How: Compound interest
+- Reachng freedom
+	- Hands-off investing (index/bond)
+	- Historical performance
+	- About recessions and depressions
+- Templates
+	- Socio/environmental investing
+	- World index approach
+	- All weather portfolio
+	- Manual trading
+- Interesting opportunities
