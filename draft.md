@@ -55,7 +55,7 @@ While not essential, many people like looking fit & vital. Be it a well sculpted
 
 This section assumes you are not yet at the body composition you desire. Maybe you have more fat than you desire, or perhaps you want more muscle mass. If you are at your preferred body composition, you are welcome to skim over this section.
 
-## Weight is simple
+## Weightloss: it's simple
 
 The human body is a complex system, but it handles energy in accordance to the laws of thermodynamics.
 
@@ -108,6 +108,8 @@ Some rules of thumb
 
 Fat is an interesting one. It does trigger the satiety response, but the effect is **delayed**. Basically it fill you, but only after half an hour or so.
 
+An interesting technique based on the satiety system is taking 30 grams of protein within 30 minutes of waking. It suppresses apetite for a good amount of time.
+
 ### Glycemic index
 
 Your body transforms all carbohydrates into sugar. This is why all carbohydrates increase your blood sugar levels, but fats do not.
@@ -146,16 +148,122 @@ Go with whitelisting:
 
 It is simpler and less error prone. If you want to make your weight loss period even more fool proof, take a lesson from the Slow Carb diet and plan a set amount of meals and only eat those.
 
-### If nothing else...
+### Accountability & motivation
 
-If you don't want to do a diet. The folowing rules will keep you trending in the right direction until you are ready to start:
+Humans are not very good at making a decision and sticking to it. Therefore it is advisable to make a system that supports you in (read: forces you to) stick to your intention.
 
-1. Don't drink energy (kCal). No juice, soda, milk in coffee, etc.
-2. Take 30 grams of protein within 30 minutes of waking (eggs or protein shake recommended)
-3. Avoid sugar
+Humans are more risk averse than goal oriented. If you give a person €10 they will be happy. If you give them €20 and later steal €10 from them they will be sad. Even though in both scenarios they end up with €10. Use this to your advantage.
 
+Popular options:
 
+| Strategy | Logistics |
+| -------- | --------- |
+| Betting pool | Set a goal with friends, put money into a pot (enough to hurt, not enough to be impractical) first to reach the goal gets the money, rest loses. |
+| Punishment | Give a friend/service money. If you don't reach the goal, they donate it to a charity/cause you hate. (e.g. the kkk) |
+
+**Formulate the cost of failure**
+
+Inspiration is fickle and temporary. You can keep it alive by continuously reminding yourself of the cost of failure and the profit of winning. It pays to formulate your cost/benefit reasons.
+
+An example list, 'if I do not reach a healthy weight I will':
+
+- Feel inferior to those around me
+- Not have the energy to go for hikes
+- Die younger than I need to
+
+An example list, 'if I reach my desired weight I will':
+
+- Feel proud of my body
+- Feel good about my discipline
+- Be able to enjoy physical activities better
+
+Your reasons will always be your own. Formulate what matters to you and remind your self of them at key moments:
+
+- Recite your costs/gains to yourself in the mirror in the morning
+- Go through your costs/gains before every meal
+
+### What gets measured gets managed
+
+Measure your progress every day. Your first priority should be logging your weight. You can use an old-school scale and a notebook or a smart scale that makes pretty graphs. Notes on weight management:
+
+- Measure at the same time of day each day for consistency
+- Body fat % on scales are not accurate. Use them only for trends.
+
+For those who like numbers, calorie counting is a great option. To be effective:
+
+1. Set a calorie goal
+2. Measure your intake
+
+For the people who like accuracy, get an app that had accurate calorie counts for foods, there are plenty of free and good ones. A kitchen scale is your friend. 
+
+Rules of thumb:
+
+| Food | Guestimated calories per 100g | Example |
+| ---- | -------------------------------- | ------- |
+| Vegetable | 30 kCal | Asparagus, cauliflower, carrots |
+| Fruit (N-European) | 50 kCal | Apple, berries |
+| Fruit (Warm places) | 100 kCal | Pomegranate, banana, grapes |
+| Starchy vegetable | 100 kCal | Potato, peas |
+| Cheese | 300 kCal | All except explicitly low fat |
+| Fish lean/fatty | 50/150 kCal | Trout / eel |
+| Lean/reg/fat meat | 100/200/400 kCal | Chicken/Beef/Sausage |
+| Egg small/large | 50/75 kCal | |
+
+The above is stupidly oversimplified. But *measuring something always beats measuring nothing.*
+
+### Template: Weight loss
+
+Planning for low GI & high satiety:
+
+1. Generate a list of 'whitelisted' foods
+2. Generate a number of meals with these foods
+3. Institute routines
+4. Set up accountability
+
+Suggested whitelist:
+
+| What stuff | How much | Notes |
+| -------- | ---------- | ------ |
+| Vegetables that grow above ground | As much as you want | E.g. cauliflower but not potato. |
+| Meat & fish | Normal portions | Prefer lean, but fatty is fine. |
+| Fermented dairy | Normal portions | E.g. Yoghurt, cheeze. Only unsweetened. |
+| Fruit | Very limited intake | Consider fruit candy. It's satiety effect is very short. |
+| Nuts | Very limited intake | While low GI, 100g macadamia nuts is 700 kCal. Equivalent to 4.5kg cucumber. |
+| Can I eat... | Zero | If you need to ask, then you don't eat it. No 'superfood grains' or 'sugar free' snacks. Simplicity. |
+
+Sugested meal types:
+
+| Meal | Instructions |
+| ---- | ------------ |
+| Soup | Boil vegetables, add salt, blend them (heat proof blender). |
+| Salad | Chop things up, add olive oil and balsamic. Eat. |
+| Stirfried | Chop vegetables, put in pan with hot oil, stir until they are soft-ish. |
+| Yoghurt with fruits | Yoghurt + fruit in bowl. Spoon it. |
+
+Suggested routines:
+
+| Trigger | Action | Notes |
+| ----------- | ------ | ----- |
+| Waking up | 30 grams of protein within 30 mins | 5 eggs or 1 big protein shake. |
+| Waking up | 500ml (1 big cups) water | Cold water preferred. |
+| Hungry at non-meal time | Savory broth | Any whitelist food is fine, but zero-sugar broth packages are easy to cary around. |
+
+Never whitelist:
+
+| Food | Severity | Example | Why |
+| ---- | ------- | -------- | --- |
+| Sugar | Nuclear | Sugar in coffee | No satiety, lots of energy |
+| Drinks with energy content (kCal) | Nuclear | Fruit juice, soda | High calorie per second intake. Little satiety. |
+| Soft/white carbohydrates | High | Bagel, pasta | Low satiety, high energy |
+| Sweet fruits | High | Dates, figs, grapes, cherry | Fruits have a short lived effect on satiety and a high GI. Detrimental for weight loss. |
+
+*Note: there are exceptions to all of these. There are very good pastas for example that are decent in satiety and not too bad in GI. When trying to lose weight, don't complicate your life by adding 'maybe, it depends' foods. Simplicity.*
+
+Suggested accountability:
+
+Either go with a betting pool, or use a service like Stickk[^stickk] to set up a donation to a charity you hate. Do not choose a charity you like, Stickk is a deterrent for you, it must hurt you to lose. At Stickk you will choose a good (but stern) friend who will decide whether you stuck to your goals.
 
 [^crispr]: This might not be true in 50 years due to genetic engineering techniques like Crisr.
 [^calories]: Or more specifically kilocalories (kCal).
 [^starvation-diabetics]: Fun fact. People who grew up hungry have higher risk of diabetes because their body responded by increasing food cravings. It't not magic, it's science.
+[^stickk]: stickk.com is a free service that will donate your money to a charity you hate if you don't commit to your goals.
