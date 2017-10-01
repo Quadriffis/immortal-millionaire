@@ -4,33 +4,7 @@ title: The Immortal Millionaire
 subtitle: Hacking your health & wealth for a better life
 ---
 
-# Immortality: Setting phenotype goals
-
-This section focuses on how to optimise our bodies with the genetic code we have been given. Specifically:
-
-1. Lifespan
-2. Healthspan
-3. Aesthetics
-
-Your genotype is the genes you were given at birth. Your phenotype is what you do to activate or supress certain genes. Not all genes are on by default. Many are triggered or deactivated based on choices you make.
-
-**Lifespan**
-
-Humans historically have all died quite reliably[^crispr]. That doesn't mean though that we have no control over the length of our lives. Barring accidents and genetic defects, it is entirely reasonable to expect to exceed the average life expectation by a great deal.
-
-**Healthspan**
-
-What is the point of living longer if you can't enjoy it? Health span is the amount of your life where you are in good health. We can exert a surprising amount of control over our healthspan.
-
-**Aesthetics**
-
-While not essential, many people like looking fit & vital. Be it a well sculpted body or a smooth skin, the aesthetics of the body are to a great extent under our control as well.
-
-# Body recomposition
-
-This section assumes you are not yet at the body composition you desire. Maybe you have more fat than you desire, or perhaps you want more muscle mass. If you are at your preferred body composition, you are welcome to skim over this section.
-
-## Weightloss: it's simple
+# Weightloss: it's simple
 
 The human body is a complex system, but it handles energy in accordance to the laws of thermodynamics.
 
@@ -51,7 +25,7 @@ The main principle for weight loss is thus simply:
 
 > To lose weight, eat less calories than you expend. To gain weight eat more calories than you expend.
 
-### Losing weight happens in the kitchen
+# Losing weight happens in the kitchen
 
 Your body needs energy to stay alive. The majority of the energy you use every day is used to pump blood, keep you warm and have your brain running.
 
@@ -70,7 +44,7 @@ In other words, to use the amount of calories he burns by going about his day is
 
 If you want to do sports, good. But don't do it to lose weight. Change your food to lose weight.
 
-### Satiety index
+## Satiety index
 
 Your body does not feel full based on the calories you eat. The satiety system responds to different factors, ranging from stomach fullness to lipids in your digestive system.
 
@@ -85,7 +59,7 @@ Fat is an interesting one. It does trigger the satiety response, but the effect 
 
 An interesting technique based on the satiety system is taking 30 grams of protein within 30 minutes of waking. It suppresses apetite for a good amount of time.
 
-### Glycemic index
+## Glycemic index
 
 Your body transforms all carbohydrates into sugar. This is why all carbohydrates increase your blood sugar levels, but fats do not.
 
@@ -107,7 +81,7 @@ Rules of thumb to identify high GI foods:
 | Low (good) | Protein rich foods. Non/less sweet/starchy plants like leafs. |
 | None (no impact) | Pure fats. Water. |
 
-### Whitelist, not blacklist
+# Whitelist, not blacklist
 
 When losing weight you want to rely on your willpower as little as possible. Every time you have to make a decision on the spot there is a chance you will make a bad decision.
 
@@ -123,7 +97,7 @@ Go with whitelisting:
 
 It is simpler and less error prone. If you want to make your weight loss period even more fool proof, take a lesson from the Slow Carb diet and plan a set amount of meals and only eat those.
 
-### Accountability & motivation
+# Accountability & motivation
 
 Humans are not very good at making a decision and sticking to it. Therefore it is advisable to make a system that supports you in (read: forces you to) stick to your intention.
 
@@ -157,7 +131,7 @@ Your reasons will always be your own. Formulate what matters to you and remind y
 - Recite your costs/gains to yourself in the mirror in the morning
 - Go through your costs/gains before every meal
 
-### What gets measured gets managed
+# What gets measured gets managed
 
 Measure your progress every day. Your first priority should be logging your weight. You can use an old-school scale and a notebook or a smart scale that makes pretty graphs. Notes on weight management:
 
@@ -186,7 +160,7 @@ Rules of thumb:
 
 The above is stupidly oversimplified. But *measuring something always beats measuring nothing.*
 
-### Template: Weight loss
+# Template: Weight loss
 
 Planning for low GI & high satiety:
 
@@ -238,7 +212,6 @@ Suggested accountability:
 
 Either go with a betting pool, or use a service like Stickk[^stickk] to set up a donation to a charity you hate. Do not choose a charity you like, Stickk is a deterrent for you, it must hurt you to lose. At Stickk you will choose a good (but stern) friend who will decide whether you stuck to your goals.
 
-[^crispr]: This might not be true in 50 years due to genetic engineering techniques like Crisr.
 [^calories]: Or more specifically kilocalories (kCal).
 [^starvation-diabetics]: Fun fact. People who grew up hungry have higher risk of diabetes because their body responded by increasing food cravings. It't not magic, it's science.
 [^stickk]: stickk.com is a free service that will donate your money to a charity you hate if you don't commit to your goals.
