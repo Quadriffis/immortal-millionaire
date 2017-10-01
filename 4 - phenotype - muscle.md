@@ -51,3 +51,46 @@ To compile your workout the easiest is usually to ask a personal trainer at your
 ## Supply relevant nutrients
 
 The second factor is feeding your body the building blocks it needs to grow muscle. In simple terms: proteins. There is a lot of nuance there to do with bioavailability and amino acid makeup, but in essence it comes down to those two questions.
+
+Muscles are primarily composed muscle fibers, which are protein structures. When your body is triggered to generate more muscle my exercise, it also needs to get nutrients to work with.
+
+There are two classifications of protein intake that matter when building muscle:
+
+1. Timed protein consumption (less important)
+2. Total protein consumption (more important)
+
+Body builders tend to fixate on eating protein before, durng and after a workout. The idea is that exercise causes the body to become catabolic (breaking down muscle) and it needs protein to turn anabolic (building muscle) again.
+
+> From research on exercising while fasting we know that there is little to no loss of muscle when eating nothing for hours before, during and after a workout.
+
+Additionally many try to eat meals every 2-3 hours to 'supply a constant stream of nutrients'. This again stems from the faulty idea that not supplying protein will make the body break down muscle.
+
+> Eating protein every 3 hours is only marginally better than only once or twice a day.
+
+If you want to be a full-time body builder, go ahead and eat meals every few others. If you are a regular human gaining muscle, don't worry too much about meal timing. Rules of thumb:
+
+- Eating some protein after a workout is good, but not doing it is no issue
+- Eating protein every few hours only is marginally better for muscle growth
+- Having an adequate total protein intake really matters
+
+### Protein quality
+
+Not all protein is created equal. Specifically what matters is the ratio of amino acids and their bioavailability of the source. The currently used method to rate proteins is the *Digestible Indispensable Amino Acid Score* or DIAAS. It taked into account:
+
+- The amino acid needs of a human
+- The degree to which a protein is absorbed by humans
+
+You can look up DIAAS tables online. In general animal source proteins (dairy, meat, eggs) are of the highest biological quality. This is why WHEY protein (dairy source) is very popular in body building.
+
+This doesn't mean that plant proteins don't help muscle growth. It does mean that your body doesn't absorb them as well and might need a very diverse groups of protein sources.
+
+### The (untrue) protein absorbtion limit
+
+There is a lot of untrue common sense out there. In the fitness world it is often referred to as 'broscience'. While it usually doesn't cause any explicit harm, it often tells people to do silly things.
+
+There is no limit to the amount of protein the body can consume in one meal, so no it's not 40 grams. This mantra stems from a misinterpretation of a study that found that 20-40 grams of protein was the most optimal amount to stimulate muscle growth.
+
+Later studies have found that the body is perfectly capable of absorbing far above 40 grams in one meal. An extreme example is that people who eat one meal a day absorb the protein from their huge meals just fine.
+
+
+
