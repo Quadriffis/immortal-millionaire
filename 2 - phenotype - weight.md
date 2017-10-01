@@ -4,33 +4,6 @@ title: The Immortal Millionaire
 subtitle: Hacking your health & wealth for a better life
 ---
 
-# Preface
-
-The principles in this book are not new and they are not complex. The mechanisms that underlie them are, but you don't need to be an aerospace engineer to hop on an airplane...
-
-After this book a great many things will become clear to you. Most likely you will realise they have been staring you in the face all this time.
-
-Some of you will be quite upset that this material is not taught in schools. While you are right, remember that we have no control over our past, but a great deal of control over our future.
-
----
-
-# Disclaimer & caustionary note
-
-The information in this book is for educational purposes. It serves as a starting point from which you can start planning your life path better.
-
-- If you plan to change your health lifestyle, consult a medical professional.
-- If you plan to change your financial lifestyle, consult a registered fiduciary.
-
----
-
-# Intention of this book
-
-As of yet there are no immortal humans. This book will outline what you can do to extend your lifespan and healthspan within the confines of human genetics. Considering how modern technology is going, I suspect immortality is not as impossible as it sounds.
-
-Nobody can guarantee financial success. The suggestions in this book however have been used by many individuals and organisations to amass great wealth.
-
----
-
 # Immortality: Setting phenotype goals
 
 This section focuses on how to optimise our bodies with the genetic code we have been given. Specifically:
@@ -264,30 +237,6 @@ Never whitelist:
 Suggested accountability:
 
 Either go with a betting pool, or use a service like Stickk[^stickk] to set up a donation to a charity you hate. Do not choose a charity you like, Stickk is a deterrent for you, it must hurt you to lose. At Stickk you will choose a good (but stern) friend who will decide whether you stuck to your goals.
-
-## Muscle gain vs strength
-
-Before reading this section keep in mind the following things:
-
-1. Most people don't need most muscle, just less fat
-2. Strength and muscle size are not the same
-
-Before deciding on any course of action, be sure what your goals are. If you want to look in shape, usually losing weight through diet is the best course of action. That doesn't mean you shouldn't do exercise, but rather that you shouldn't rely on exercise alone to look more fit.
-
-### Gaining muscle (hypertrophy): 2 variables
-
-To increase your lean muscle mass there are many very effective techniques. They all rely on two basic variables:
-
-1. Trigger muscle growth
-2. Eat relevant food
-
-Triggering muscle growth is simple in principle. You want to send your muscles the signal that they are not sufficient. Exhausting your muscles by doing heavy things basically gives the signal of:
-
-> I had to fight/run for my survival, and these muscles were barely suficient.
-
-By stretching your limits in exercise you tell your body to activate the set of genes that causes the growth of muscles. Some people have easy to trigger genes, meaning a little exercise shows great result. Others need a heavier stimulus.
-
-The second factor is feeding your body the building blocks it needs to grow muscle. In simple terms: proteins. There is a lot of nuance there to do with bioavailability and amino acid makeup, but in essence it comes down to those two questions.
 
 [^crispr]: This might not be true in 50 years due to genetic engineering techniques like Crisr.
 [^calories]: Or more specifically kilocalories (kCal).
