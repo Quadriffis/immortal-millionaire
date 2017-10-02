@@ -48,6 +48,18 @@ Safely is of prime importance. If you do an exercise irresponsibly you will in t
 
 To compile your workout the easiest is usually to ask a personal trainer at your gym to help you out. Often you will as you go along learn more and more about fitness and begin to tweak your workout as you go along. There are some recommendations to get you started in the template section.
 
+### Choosing your weight: 5x5
+
+A repetition is one movement (e.g. lifting a weight and putting it down). A set is the number of times you do a rep.
+
+A guideline often used is the 5x5. In essence:
+
+- Find a weight where you can do 2 sets of 5 well
+- Do 5 sets of 5 reps
+- The last 2 sets or so you should just not be able to make 5
+
+The moment you can do 5 sets of 5 reps, up your weight.
+
 ## Supply relevant nutrients
 
 The second factor is feeding your body the building blocks it needs to grow muscle. In simple terms: proteins. There is a lot of nuance there to do with bioavailability and amino acid makeup, but in essence it comes down to those two questions.
@@ -72,6 +84,32 @@ If you want to be a full-time body builder, go ahead and eat meals every few oth
 - Eating some protein after a workout is good, but not doing it is no issue
 - Eating protein every few hours only is marginally better for muscle growth
 - Having an adequate total protein intake really matters
+
+### Choosing your protein intake
+
+There are two factors in determining your dietary makeup:
+
+- Caloric intake
+- Protein intake
+
+From the weight loss section we know that the base metabolic rates for humans are about:
+
+- Women BMR = 655 + (9.6 x weight in kilos) + (1.8 x height in cm) - (4.7 x age in years)
+- Men BMR = 66 + (13.7 x weight in kilos) + (5 x height in cm) - (6.8 x age in years)
+
+> For a 26 year old male of 183cm weighing 78 kilos that means a BMR of 66 + (13.7 x 80) + (5 x 170) + (6.8 x 26) = **2188 kCal a day**.
+
+Make sure you eat enough when trying to gain muscle. Keep in mind your exercise expenditure and set a daily target.
+
+The rule of thumb for protein consumption is: 1.4x your lean muscle weight in grams. For example:
+
+> A person weighing 80kg with 15% body fat should take about 80 x 15% x 1.4 = 95 grams of protein.
+
+The above is a rule of thumb. Keep in mind that:
+
+- This is a game of averages, don't go manic on exact numbers
+- Protein counts as calories, protein shakes too
+- Eating protein without exercise will not make your muscles grow
 
 ### Protein quality
 
@@ -134,3 +172,53 @@ It is highly recommended to read the motivation and accountability section in th
 For hypertrophy/size training it is advisable to have certain days or times of day where you exercise. Personally I like going to the gym (and consecutively sauna) in the morning. Whatever works for you, schedule it. Put it in your calendar. Preferably have a friend or personal trainer to hold you accountable.
 
 For strength training set triggers throughout the day. Try to make your home and place of work conducive to this. This might work better for some professions than others. Having a pull up bar in the door to your office is for example a great way to do single-rep slow pull ups throughout the day. Likewise having space in your office to do a quick one handed pushup will contribute to your consistency.
+
+# Template: Muscle gain
+
+Variable one is triggering muscle growth. What matters here is exhausting your muscles with short and intense exercise. For most people talking to a personal trainer at a gym is the best idea (often a single consult is free).
+
+**Suggested exercises**
+
+| Exercise | Target |
+| -------- | ------ |
+| Deadlift | Back, arms, legs |
+| Barbell squat | Legs, butt, back |
+| Benchpress | Arms, chest |
+
+- Use the 5x5 rule to determine your weight
+- Focus on perfect technique (ask a pro)
+- Use free weights where possible
+
+There are many other great approaches, for example with kettlebells. The same principle applies: train till (near) exhaustion of muscles.
+
+**Suggested dietary practices**
+
+| Factor | Recommendation |
+| ------ | -------------- |
+| Calories | Calculate your BMR. |
+| Protein intake | Minimum 1.4 times lean body mass. This is most important. |
+| Protein type | High DIAAS score. This is important. |
+| Protein timing | Regular if possible, max 40 grams per consumption. This is not high priority. |
+| Food types | Low GI, see weight loss section. |
+
+# Template: Muscle strength
+
+Strength is about high load, low consecutive repetitions and spaced out sets. Body-weight exercises are advisable since they can be done anywhere. This is important since most people don't have access to weights every hour or so.
+
+**Suggested exercises**
+
+Progression one:
+
+- Push up
+- One handed push up
+- One handed and one legged push up
+
+Progression two:
+
+- Squat
+- Pistol squat (down only)
+- Full pistol squat
+
+If a pull up bar is available, pull ups ar great.
+
+You may modulate the difficulty of any exercise by doing it slower. A 5 second push up is harder than a quick up/down for example.
