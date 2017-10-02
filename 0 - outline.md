@@ -6,7 +6,7 @@ subtitle: Hacking your health & wealth for a better life
 
 Section 1: Immortal
 
-- Phenotype goal setting
+- Phenotype goal setting intro
 	- Lifespan
 	- Healthspan
 	- Aesthetics

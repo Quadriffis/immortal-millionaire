@@ -104,10 +104,17 @@ When training for strength you are in essense helping your body understand how m
 
 ## Greasing the groove
 
-A popular approach to strength rather than muscle size is *greasing the groove* as described by Pavel Tsatsouline. This protocol consists of two tennets:
+A popular approach to strength rather than muscle size is *greasing the groove* as described by Pavel Tsatsouline. This protocol consists of three tennets:
 
 1. High load (lots of effort)
-2. Low repetition (no exhaustion)
+2. Low consecutive repetitions (no exhaustion)
+3. Regular repetitions throughout the day
+
+The **high load** refers to the need to use muscles close to their strength limit. It's not about exhausting them but rather about making one repetition of a difficult move.
+
+The **low repetition** element is linked to the above. If you can do 10 repetitions of a movement, it is not hard enough for this protocol.
+
+The **regular repetitions** refer to doing the high-load movements often throughout the day. Where muscle growth asks you to do 20 heavy movements after each other, this protocol wants you to do single repetition sessions every hour or even half an hour.
 
 The protocol as written by Pavel focuses on two body-weight exercises:
 
@@ -117,3 +124,13 @@ The protocol as written by Pavel focuses on two body-weight exercises:
 These are highly technical moves that stimulate a large number of muscle groups. The one handed/legged push up for example stimulates everything from triceps to pectorals to core and even the upper leg.
 
 The principles of this protocol however translate to many other exercises. Just keep in mind that this protocol is more dangerous with respect to injuries since you are training with high muscle load. Technique is even more important than with regular resistance training.
+
+# Motivation and consistency
+
+As with losing weight things like acountability are very important. But while weight loss is an all-day endeavor, exercise is often more about routine and consistency.
+
+It is highly recommended to read the motivation and accountability section in the weigth loss chapter. It still pays off to use accountability measures like betting pools or anti-charities. For strength and muscle gain however routine is of even more importance.
+
+For hypertrophy/size training it is advisable to have certain days or times of day where you exercise. Personally I like going to the gym (and consecutively sauna) in the morning. Whatever works for you, schedule it. Put it in your calendar. Preferably have a friend or personal trainer to hold you accountable.
+
+For strength training set triggers throughout the day. Try to make your home and place of work conducive to this. This might work better for some professions than others. Having a pull up bar in the door to your office is for example a great way to do single-rep slow pull ups throughout the day. Likewise having space in your office to do a quick one handed pushup will contribute to your consistency.
