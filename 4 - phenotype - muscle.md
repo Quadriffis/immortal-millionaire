@@ -88,9 +88,32 @@ This doesn't mean that plant proteins don't help muscle growth. It does mean tha
 
 There is a lot of untrue common sense out there. In the fitness world it is often referred to as 'broscience'. While it usually doesn't cause any explicit harm, it often tells people to do silly things.
 
-There is no limit to the amount of protein the body can consume in one meal, so no it's not 40 grams. This mantra stems from a misinterpretation of a study that found that 20-40 grams of protein was the most optimal amount to stimulate muscle growth.
+There is no limit to the amount of protein the body can consume in one meal, so no it's not 40 grams. This mantra stems from a misinterpretation of a study that found that 20-40 grams of protein was the most optimal per-meal consumption amount to stimulate muscle growth.
 
 Later studies have found that the body is perfectly capable of absorbing far above 40 grams in one meal. An extreme example is that people who eat one meal a day absorb the protein from their huge meals just fine.
 
+# Strength is neurological
 
+While muscle size is one factor, it is not the only variable in muscle strength. The physical structure of the muscle determines theoretical output, like how many seconds it takes for a car to accelerate to a certain speed.
 
+What matters in practice is how strong the neurological signal to exert force is. There is a safety limit on the percentage of strength a muscle can theoretically and practically produce.
+
+> Electrocution or tetanus for example can cause the muscles to spasm violently enough to break bones.
+
+When training for strength you are in essense helping your body understand how much strength is safe to use.
+
+## Greasing the groove
+
+A popular approach to strength rather than muscle size is *greasing the groove* as described by Pavel Tsatsouline. This protocol consists of two tennets:
+
+1. High load (lots of effort)
+2. Low repetition (no exhaustion)
+
+The protocol as written by Pavel focuses on two body-weight exercises:
+
+- One handed (+one legged) push up
+- Pistol squat
+
+These are highly technical moves that stimulate a large number of muscle groups. The one handed/legged push up for example stimulates everything from triceps to pectorals to core and even the upper leg.
+
+The principles of this protocol however translate to many other exercises. Just keep in mind that this protocol is more dangerous with respect to injuries since you are training with high muscle load. Technique is even more important than with regular resistance training.
