@@ -73,6 +73,17 @@ Being in ketosis has a host of health benefits. The list is very similar to fast
 
 Entering a ketotic state is done by depriving the body of carbohydtates. A ketogenic diet is often 80%+ fats. Longer fasts result in ketosis, and thus supply benefits similar to the ketogenic diet.
 
+### Time restricted feeding
+
+The human body has an internal clock referred to as the circadian rhythm. There are two important factors that help your body callibrate it's clock:
+
+- The first moment you are exposed to bright light
+- The first moment you use your liver
+
+Bright light is a 'sunrise' mechanism. The liver is used to digest food, but is also impacted by for example coffee.
+
+There as strong indications that eating within a window that falls in the waking 'daylight' time (e.g. 08:00 to 20:00) has health benefits.
+
 ## Intermittent fasting
 
 It takes the body a while to enter recovery mode once you start fasting. When you eat something during a fasted state the countdown timer starts anew.
@@ -121,7 +132,46 @@ Benefits of saunas include:
 
 As for frequency, research so far seems to indicate that more is better. Going twice a week beats once, going 5 times beats 4, etc.
 
+# Template: Intermittent fasting
+
+The most popular option (and most compatible with most people's lives is the 16/8 approach. To get started, choose your eight hour eating window. Keep in mind that the window needs to:
+
+- Cover all your energy needs. E.g. 08:00 to 16:00 requires dinner before 16:00
+- Be conducive to finding food. Evenings work best if you work full time and cook at home.
+- Compatible with your daily routine, think work(out)/social etc
+
+Other important considerations:
+
+- Most people report having the best mental focus then **fasting**.
+- After adjusting many people report feeling sluggish when eating too early.
+- Eat the right stuff. Focus on low GI etc. See the diet section.
+- Have backup food on you. E.g. always have a box of nuts on you.
+- Be strict but reasonable. Yearly family brunches are a fine reason not to fast.
+
+# Template: Multi-day keto fast mimicking diet
+
+This is an interpretation of the fast mimicking diet designed to support you reaching ketosis. *First off, a multi day fast is quite extreme. Consult a medical professional if this is your first time.*
+
+The rules are simple:
+
+| Hours/day | Rules |
+| --- | ----- |
+| 24h (day 1) | Coffee, tea, max 4 tablespoon coconut oil. Tsp salt. |
+| 48h (day 2) | Water. Max 2 tablespoon coconut oil. Tsp salt. |
+| 72h (day 3) | Water. Max 1 tablespoon coconut oil. Tsp salt. |
+| 98h (day 4) | Water. Tsp salt. |
+| day 5 | Breakfast. |
+
+The coconot oil is rich in medium chain triglycerides (MCT) which are easy to convert into ketones. It is recommended to buy a device to measure your blood ketones[^abbott]. Urine strips are not very accurate.
+
+Tips to make the most out of your fast:
+
+- Have things to do
+- Don't be around food if you don't have to be
+- Go for a brisk 1 hour walk on the first day (help get into ketosis)
+- If you must have coffee/tea the whole duration (very suboptimal!) go for teas without antioxidants/caffeine (e.g. camomile) and coffee without sugar/milk.
 
 [^fasting-writeup]: [The science of fasting for longevity & health](https://www.skillcollector.com/post/i-didnt-eat-for-105-hours-science-benefits/)
 [^neurogenesis]: Growth of nerve cells
 [^bdnf]: Brain derived neurotrophic factor
+[^abbott]: For example the Abbott Freestyle Optium Neo. You need to get both glucose and ketone strips. Ketone strips are markedly more expensive than glucose ones.
