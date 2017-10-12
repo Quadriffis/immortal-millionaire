@@ -111,27 +111,6 @@ While the official fast mimicking diet is distributed as a commercial product, t
 
 Self experimenters online also suggest using only high medium-chain-triglyceride oil like coconut oil as an energy source. Supplementation with salt is also advised since the body loses salt when glycogen stores are depleted suring fasting.
 
-## Heat and cold exposure
-
-This is not about food, but rather temperature stressors. The body gains a lot of benefit from controlled extreme heat exposure (sauna) and controlled extreme cold exposure (ice baths).
-
-Particularly saunas are in many countries relatively easy to implement as habits through gyms that offer them.
-
-Benefits of saunas include:
-
-- Improved cardiovascular function
-- Increased blood flow
-- Increases red blood cell count
-- Metabolic improvements (oxygen transport, heat schock proteins)
-- Enhanced endurance
-- Improved muscle growth (paired with exercise)
-- Growth hormone release (downstream effects on mTOR and FOXO pathways)
-- Increased insulin sensitivity
-- Increased life span (in animals)
-- Neurogenesis[^neurogenesis] in the brain (through BDNF[^bdnf])
-
-As for frequency, research so far seems to indicate that more is better. Going twice a week beats once, going 5 times beats 4, etc.
-
 # Template: Intermittent fasting
 
 The most popular option (and most compatible with most people's lives is the 16/8 approach. To get started, choose your eight hour eating window. Keep in mind that the window needs to:
