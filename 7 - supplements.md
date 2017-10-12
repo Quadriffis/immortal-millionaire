@@ -62,4 +62,25 @@ The effects of low vitamin d can be manifold (remember, it affects DNA expressio
 
 - Lower mood levels
 - Suboptimal immune function
+- Suboptimal cognitive function
 - Weaker bone and teeth
+
+### Magnesium
+
+This mineral is used in a large amount of functions ranging from the immune system to the brain. It's used ny 300+ enzymes and without it our primary ATP based cellular energy system would not function. 
+
+There are no international population wide statistics on magnesium levels in the blood, but depending on what study you look at as many as 60% to 80% of people care deficient in magnesium.
+
+There are a number of issues for many people:
+
+> Many people don't consume enough magnesium and magnesium supplements are often bad
+
+The issue with magnesium supplements is that different types are absorbed better or worse. Not only that, but it appears that different types are prefered by certain organs.
+
+The important magnesium types to know:
+
+| Type | Bioavailability | Notes |
+| --- | ---------------- | ----- |
+| Magnesium Oxide | As low as 10% | Basically magnesium rust |
+
+You can check for the type of magnesium in your supplement by checking the ingredient list.
