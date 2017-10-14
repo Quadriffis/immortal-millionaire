@@ -37,7 +37,13 @@ Note that not all values have immediate value. Cholesterol values for example ar
 
 On a statistical basis there are a number of supplements that could benefit a great many people.
 
-Note that statistica can be deceiving. If for example 50% of a population is deficient in vitamin B12, that might convince you to take the supplement. If the underlying data however shows that the 50% that has this issue is over 65 years old, you may or may not change your standpoint.
+Note that statistics can be deceiving. If for example 50% of a population is deficient in vitamin B12, that might convince you to take the supplement. If the underlying data however shows that the 50% that has this issue is over 65 years old, you may or may not change your standpoint.
+
+Don't blindly take supplements:
+
+1. Get your blood tested
+2. Make a game plan (supplements/food)
+3. Test again a few weeks later
 
 ### Vitamin D
 
@@ -84,3 +90,15 @@ The important magnesium types to know:
 | Magnesium Oxide | As low as 10% | Basically magnesium rust |
 
 You can check for the type of magnesium in your supplement by checking the ingredient list.
+
+### The harm of supplements
+
+Vitamin supplements are not without risk. Many people approach it with a "worst case it doesn't do anything" attitude. The thing is that vitamins too can upset the balance of your body.
+
+The B vitamin group for example is well known to stimulate certain types of growth. This is why people take it to make nails and hair grow faster/stronger. Hypothetically however these supplements could also provide valuable fuel for tumors.
+
+Likewise for many male consumers taking extra iron is a terrible idea and has shown to increase risk for some disease, whereas this is less so the case for women (who lose iron through menstruation).
+
+> Don't get me wrong: no supplement is inheretly good or bad
+
+Blindly taking highly concentrated supplements is a terrible idea though. Test yourself first.
