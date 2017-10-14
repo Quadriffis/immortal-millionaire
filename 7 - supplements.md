@@ -102,3 +102,16 @@ Likewise for many male consumers taking extra iron is a terrible idea and has sh
 > Don't get me wrong: no supplement is inheretly good or bad
 
 Blindly taking highly concentrated supplements is a terrible idea though. Test yourself first.
+
+## Interesting supplements
+
+There are a number of supplements that have the potential to support a good quality of life, or to extend lifespan potentially. Many of these are quite exterimental and have only proven to work in theory or on animal models.
+
+### Lithium Ororate
+
+Lithium is associated in high dosages with the treatment of psycheatric disorders. It is however in low dosages an essential mineral for optimal health. It occurs naturally in low dosages (up to 0.170 mg/L in tap water)[^lithium]. The argument has been made that we could all benefit from a low dosage of lithium on a daily basis.[^lithium]
+
+While large theraputic dosages are classified as medicine (and rightfully so) the smaller dosed supplements are available for purchase from many supplement vendors. The dosages are greatly smaller than those in the medicinal form.
+
+
+[^lithium]: New York Times: [Should we all take a bit of lithium?](https://www.nytimes.com/2014/09/14/opinion/sunday/should-we-all-take-a-bit-of-lithium.html)
