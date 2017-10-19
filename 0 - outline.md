@@ -24,7 +24,6 @@ Section 1: Immortal
 	- Mobility
 - Aesthetics
 	- Skin prevent/repair
-	- Hair prevent/repair
 - Templates
 	- Losing a moderate amount of weight
 	- Losing large amounts of weight
