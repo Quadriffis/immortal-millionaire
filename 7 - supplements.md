@@ -139,5 +139,20 @@ Named after Rapanui (easter island) this compound has stayed in the shadows for 
 
 The research on humans however is not very extensive and the availability is low as of the time of writing. It is not a common drug or supplement and is considered experimental.
 
+### Adaptogens
+
+The class of adaptogens is a group of supplements that balances stress and relaxation responses. In essence these compounds give energy for those who are low and provide relaxation to those who are stressed.
+
+This may sound conflicting, but it makes sense when viewed through the lens that adaptogens work at restoring a baseline. Instead of a substance that per definition causes a dose-dependent effect in a predicatble direction (e.g. alcohol) they restore balance to functions that are out of whack.
+
+The exact mechanisms differ per supplement, and for some the exact mechanisms are not known. For many though the adaptogenic effect has been robustly documented.
+
+Interesting adaptogens include:
+
+- Panax Ginseng root
+- Reishi mushroom extracts
+- Rhodiola
+
+Depending on your geographcial location some are easier to find than others.
 
 [^lithium]: New York Times: [Should we all take a bit of lithium?](https://www.nytimes.com/2014/09/14/opinion/sunday/should-we-all-take-a-bit-of-lithium.html)
