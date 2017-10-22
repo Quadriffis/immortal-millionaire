@@ -109,7 +109,7 @@ There are a number of supplements that have the potential to support a good qual
 
 ### Lithium Ororate
 
-Lithium is associated in high dosages with the treatment of psycheatric disorders. It is however in low dosages an essential mineral for optimal health. It occurs naturally in low dosages (up to 0.170 mg/L in tap water)[^lithium]. The argument has been made that we could all benefit from a low dosage of lithium on a daily basis.[^lithium]
+Lithium is associated in high dosages with the treatment of psycheatric disorders. It is however in low dosages an essential mineral for optimal health. It occurs naturally in low dosages (up to 0.170 mg/L in tap water). The argument has been made in a New York Times atricle[^Should we all take a bit of lithium? (New York Times, 2014): https://www.nytimes.com/2014/09/14/opinion/sunday/should-we-all-take-a-bit-of-lithium.html] that we could all benefit from a low dosage of lithium on a daily basis.
 
 While large theraputic dosages are classified as medicine (and rightfully so) the smaller dosed supplements are available for purchase from many supplement vendors. The dosages are greatly smaller than those in the medicinal form.
 
@@ -164,5 +164,3 @@ For this supplement it is important to realise that fatty acids are essential fo
 On supplement bottles you will often find references to EPA and DHA. These are two forms of omega 3 fatty acids. Their structure differs and research indicates that their effect differs as well.
 
 If you plan to take fish oil on a long term basis make sure that you choose a reputable supplement that is adequately purified. The fish used to produce the oil may contain toxins like heavy metals (especially if the source fish is high up the food chain) that need to be filtered out.
-
-[^lithium]: New York Times: [Should we all take a bit of lithium?](https://www.nytimes.com/2014/09/14/opinion/sunday/should-we-all-take-a-bit-of-lithium.html)
