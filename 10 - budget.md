@@ -86,3 +86,15 @@ Brief explatations (copied from their webpage):
 4. *With the help of the other three rules, you’ll be more purposeful about your spending, consistently spend less than you earn, and be more than prepared for the future. Eventually, you’ll be able to cover May’s rent with dollars from April. Your money will be at least 30 days old and you’ll wonder how you ever lived without the Four Rules.*
 
 I highly suggest getting a free trial[^Use my referral link and get a free month: http://bit.ly/free-month-ynab] with them and give it a shot. It has been a significantly positive effect on my financial life.
+
+## Embrace flexibility and automation
+
+Budgeting is not about giving you an extra chore or making your life more difficult. I highly suggest structuring your financial life accordingly.
+
+**Automate your finances** by making sure all your bills are paid automatically. Rent and other expenses should *never* take extra overhead.
+
+**Have 3 accounts** for different purposes. One called 'center' for automated expenses (your paycheck goes here) of which the card is not in your wallet. One called 'guilt free' which is in your wallet and contains limited money for food and fun (may €200 on there per week). And one called 'savings' for stashing money.
+
+**Have a guilt free category** budget fun into your life. Have a category of money you can spend without justification. Don't make it too much, but enough for smaller fun expenses.
+
+**Sharing the love** is one of my favorite categories. It is a small budget category that you can only spend on other people. From charities to taking a friend out for dinner. It's a very fulfilling (optional) part of a budget.
