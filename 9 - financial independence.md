@@ -2,7 +2,7 @@
 
 The question is simple: how much money do you need to survive? Do you know your number? Most people don't. Let me tell you mine:
 
-> To live in the center of Amsterdam in a nice apartment and have my basic needs met, I need **€400,000**.
+> To live in the center of Amsterdam in a nice apartment and have my basic needs met for life, I need **€400,000**.
 
 That number may come as a surprise to a lot of people. In order to retire with a decent lifestyle you do not need millions, of course depending on what kind of lifestyle you are aiming for. Personally I plan to have a lifestyle grander to what I described above.
 
