@@ -49,7 +49,7 @@ How you categorise your expenses is up to you, what is important however is that
 
 For me personally the budget looked as follows:
 
-| Bu dgetCategory | Monthly size in € |
+| Budget Category | Monthly size in € |
 | ------- | ------------ |
 | Rent (incl gas/water/electriity) | 780 |
 | Food | 400 |
