@@ -20,7 +20,7 @@ It is of paramount importance to know exactly which financial responsibilities y
 
 | Expense | Monthly size in € |
 | ------- | ------------ |
-| Rent (incl gas/water/electriity) | 780 |
+| Rent (incl gas/water/electricity) | 780 |
 | Food | 400 |
 | Cellphone plan | 30 |
 | Healthcare insurance | 110 |
