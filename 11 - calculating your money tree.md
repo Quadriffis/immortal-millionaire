@@ -53,7 +53,7 @@ Example for me in Amsterdam:
 
 €1095 times 12 months equals €13,140. This is the after-tax income I need to survive.
 
-## Thriving: include fun
+### Thriving: include fun
 
 The second amount we calculate will include the spending desires you have. In this level we include regular stuff you currently do, but not yet your crazy dreams like holiday homes, private islands and space travel.
 
@@ -75,7 +75,7 @@ Note that this number will vary greatly per person and location. Many big city A
 
 There are no wrong answers. This is is about how you personally want to live yout life.
 
-## Freedom: the dreams
+### Freedom: the dreams
 
 This category is not about spending as much money as possible but rather about fulfilling your dreams. Note that this might take some research.
 
@@ -96,4 +96,48 @@ An example calculation:
 | Weekly massages | 5200[^100 times 52 weeks] |
 | City trip every month | 4500[^500 per trip times 9 months (since we are in Spain in winter)] |
 | Fun shopping | 12000[^1000 a year seems good to me, maybe you like it higher or lower] |
+| **Total** | **€27,700** |
 
+This (€21,960) adds to the previous survival & fun (€21,960) to: €49,660
+
+## Calculating the size
+
+There is a well established rule in investing that a balanced portfolio can over time safely support a 4% withdrawal rate[^See the 1994 paper "Determining Withdrawal Rates Using Historical Data", http://www.retailinvestor.org/pdf/Bengen1.pdf].
+
+There are many news outlets that will gladly proclaim that the 4% number is wrong because the study is from 1994 where interest rates were higher. These sensationalist non-experts lack long term historical perspective. In fact the original researcher recently crunched the numbers based on recent market data and in his own words:
+
+> The "4% rule" is actually the "4.5% rule"- I modified it some years ago on the basis of new research. The 4.5% is the percentage you could "safely" withdraw from a tax-advantaged portfolio (like an IRA, Roth IRA, or 401(k)) the first year of retirement, with the expectation you would live for 30 years in retirement. After the first year, you "throw away" the 4.5% rule and just increase the dollar amount of your withdrawals each year by the prior year's inflation rate. [^See this wonderful 'Ask me Anything' on reddit: https://www.reddit.com/r/financialindependence/comments/6vazih/im_bill_bengen_and_i_first_proposed_the_4_safe/]
+
+Of course there are posibilities that a black swan event occurs and everything we thought we knew about money goes out the window. This chance is however quite low and leaves us with no strategy to plan.
+
+**We will act based on the best information available to us.** Which is to assume a 4% withdrawal rate.
+
+Based on the calculations of the previous paragraphs:
+
+| Yearly income | Assumed withdrawal | Needed money tree |
+| ------------- | ------------------ | ----------------- |
+| €13,140 | 4% | €328,500 |
+| €21,960 | 4% | €549,000 |
+| €49,660 | 4% | €1,241,500 |
+
+A little math trick: to get your money tree size based on 4% take your yearly income and multiple it by 25. (For the math people, this is because 1/.04 = 25)
+
+### Money forever?
+
+But won't your money run out as some point? Not if the 4% rule leeps going. Take the (simplified) example of €13,140. If your money has an average return of 4%, then every year the tree grows by €328,500 * 4% = €13,140. Which means that when you take €13,140 a year, you are always left with the original €328,500.
+
+But can this really work? Well **the best information we have says yes**.
+
+As Bill Bengen notes[^His specific comment can be found here: https://www.reddit.com/r/financialindependence/comments/6vazih/im_bill_bengen_and_i_first_proposed_the_4_safe/dlz1l6r/]:
+
+>  I find that the state of the "economy" had little bearing on safe withdrawal rates. Two things count: if you encounter a major bear market early in retirement, and/or if you experience high inflation during retirement.
+
+But what about the major financial crashes we've has the past years?
+
+>  So far, I have not seen any indication that the 4.5% rule will be violated. Both the 2000 and 2007 retirees, who experienced big bear markets early in retirement, appear to be doing OK with 4.5%.
+
+His exact words on withdrawals forever:
+
+> If you plan to live forever, 4% should do it.
+
+How do we make sure we get a 4% return while current[^As of 2017] interest rates are under 1%? We'll get to that in the investing chapter.
