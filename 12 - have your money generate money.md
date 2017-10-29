@@ -32,3 +32,13 @@ Why is this good? If one of the companies fails, the other 499 are still up and 
 - Smaller companies that look like they will grow (Vanguard Global Small Cap)
 - Sustainable companies (Sustainable Europe Index Fund)
 - Companies in healthcare (Vanguard Health Care Index Fund)
+
+# You can also lend money to governments (bond index fund)
+
+Bonds are loans. You offer the bond issuer money right now, and they promise to give you back a set amount later. Common bond issuers are governments and corporations.
+
+> A government bond allows you to give a government money, and at the end of the term (e.g. a year) they give you back more.
+
+So what if a government can't pay you back? It has happened before (Greece, Iceland etc) and will certainly happen again. You can buffer against this by buying an index of bonds.
+
+A share of a bond index means you are investing small amounts in many bonds at the same time. If you invest in a bond index you are at less risk of a government failing to pay their debts.
