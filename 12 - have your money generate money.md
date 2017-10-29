@@ -77,3 +77,23 @@ They have a huge impact. My provider charges me a yearly fee of 0.15% for exampl
 | €100,000 | 3%  | €324,340 |
 
 The difference between a fee of 1% and 3% is **over €100,000**! Take your time to find a good provider that charges low fees. it will pay off massively in the long term.
+
+# How to actually do it
+
+## 1: Decide on a strategy and stick to it
+
+Humans are not good at managing emotions when it comes to money. Since the stock market it bound to go up and down, you need to make sure you buffer against making bad decisions.
+
+If for example there is a downturn in the financial market, you should not allow yourself to even consider selling any of your investments. Not if you set up a good diversified strategy.
+
+If you want to talk to a financial advisor, be sure to talk to a fiduciary, not just any financial advisor. See video below.
+
+## 2: Find a platform
+
+In most cases your bank will be way to expensive to use for investment purposes. It is important to realise that there is no high or low quality of the same financial product. A share in Google is a share in Google no matter where you buy it[^Of course there are types of shares, but so long as we are talking about the same asset the place you buy it has no impact].
+
+## 3: Automate your investing
+
+You should be automating your finances as much as possible. Not only will this buffer your emotional reactions to stock market changes, but it will cause a cost averaging effect.
+
+Make sure to have your investment platform decuct monthly chunks of money into your investment account.
