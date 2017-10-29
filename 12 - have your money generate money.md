@@ -14,11 +14,15 @@ This would give you 2.50*365 = €912.50 every year. So after 2 years you would 
 
 It's a silly example, but this is the basic mechanic of how the stock market operates.
 
-# Individual stocks are risky, markets less so
+# Individual assets are risky
 
 Let's say we buy 5 of the 100 stocks of Acme Incorporated. This means we own 5% of the company and have a right to 5% of their profits every year.
 
-So long as Acme does well we will gain 5/100 = 5% of their substantial profits. But what if Acme goes bankrupt? Then we lose it all... Instead of buying shares in a company, we can buy shares of an index fund.
+So long as Acme does well we will gain 5/100 = 5% of their substantial profits. But what if Acme goes bankrupt? Then we lose it all...
+
+## Index funds for stocks
+
+Instead of buying shares in a company, we can buy shares of an index fund.
 
 > An index fund buys the top performing companies in a region/sector.
 
@@ -33,12 +37,43 @@ Why is this good? If one of the companies fails, the other 499 are still up and 
 - Sustainable companies (Sustainable Europe Index Fund)
 - Companies in healthcare (Vanguard Health Care Index Fund)
 
-# You can also lend money to governments (bond index fund)
+## Bond index funds
 
-Bonds are loans. You offer the bond issuer money right now, and they promise to give you back a set amount later. Common bond issuers are governments and corporations.
+You can also lend money to governments and corporations. These loans are called bonds You offer the bond issuer money right now, and they promise to give you back a set amount later. Common bond issuers are governments and corporations.
 
 > A government bond allows you to give a government money, and at the end of the term (e.g. a year) they give you back more.
 
 So what if a government can't pay you back? It has happened before (Greece, Iceland etc) and will certainly happen again. You can buffer against this by buying an index of bonds.
 
 A share of a bond index means you are investing small amounts in many bonds at the same time. If you invest in a bond index you are at less risk of a government failing to pay their debts.
+
+# Why the rich get richer
+
+When you invest, your returns will be compounded. This year you get returns on your money, next year you get returns on the returns of last year as well! **This is way more powerful than you think.**
+
+> €100 invested in the S&P 500 in 1928 would be €328,645.87 in 2016
+
+One could argue that the above is an extreme example, but the concept holds true. Compound interest gives you more money the longer you have it invested.
+
+Here are some demo calculations (assuming 4% returns):
+
+| Monthly investment | Years | Total invested | Outcome |
+| ------------------ | ----- | -------------- | ------- |
+| €500 | 30 | €180,000 | €349,970 |
+| €500 | 40 | €240,000 | €592,959 |
+| €1000 | 30 | €360,000 | €699,940 |
+| €1000 | 40 | €480,000 | €1,185,918 |
+
+## Fees are dangerous!
+
+Don't take your bank/broker fees for granted.
+
+They have a huge impact. My provider charges me a yearly fee of 0.15% for example. Have a look at the impact of fees if you invest €100,000 for 30 years with a 7% return rate.
+
+| Invested | Fee | Outcome |
+| -------- | --- | ------- |
+| €100,000 | 1%  | €574,349 |
+| €100,000 | 2%  | €432,194 |
+| €100,000 | 3%  | €324,340 |
+
+The difference between a fee of 1% and 3% is **over €100,000**! Take your time to find a good provider that charges low fees. it will pay off massively in the long term.
