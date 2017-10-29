@@ -1,0 +1,15 @@
+# Having your money make money
+
+Investing is giving money now to get more later. Let's say I have 10 chickens that produce an egg a day each, which I can sell for €10 to my neighbours. That means I have a €10 daily income. This would equal 10*365 = €3650 a year.
+
+You have €1000 available to invest. You offer to give me this €1000,- in return for 25% of my eggs (which would give you €2.50 every day).
+
+> When you buy shares in a company, you are buying their future profits.
+
+This would give you 2.50*365 = €912.50 every year. So after 2 years you would have €1825 which is a lot more that the €1000 you gave me. So why would I agree to trading your money for 25% of the profits? Well perhaps I:
+
+1. Want to buy more chickens so I make even more money
+2. I am short on cash and need money now rather than later
+3. I took out a loan to buy the chickens, and want to pay it back
+
+It's a silly example, but this is the basic mechanic of how the stock market operates.
