@@ -13,3 +13,22 @@ This would give you 2.50*365 = €912.50 every year. So after 2 years you would 
 3. I took out a loan to buy the chickens, and want to pay it back
 
 It's a silly example, but this is the basic mechanic of how the stock market operates.
+
+# Individual stocks are risky, markets less so
+
+Let's say we buy 5 of the 100 stocks of Acme Incorporated. This means we own 5% of the company and have a right to 5% of their profits every year.
+
+So long as Acme does well we will gain 5/100 = 5% of their substantial profits. But what if Acme goes bankrupt? Then we lose it all... Instead of buying shares in a company, we can buy shares of an index fund.
+
+> An index fund buys the top performing companies in a region/sector.
+
+For example the S&P 500 index fund buys shares in 500 big and reliable companies on the US market. If you buy 1 share in the S&P 500 index you in essence own a small portion of 500 companies.
+
+> An index fund like the S&P 500 is basically like betting on the 500 companies that have proven to generate profits.
+
+Why is this good? If one of the companies fails, the other 499 are still up and running. You spread your risk across many ventures without having to manage a complex share portfolio. Examples of an index 'market' are:
+
+- Big US companies (S&P 500)
+- Smaller companies that look like they will grow (Vanguard Global Small Cap)
+- Sustainable companies (Sustainable Europe Index Fund)
+- Companies in healthcare (Vanguard Health Care Index Fund)
