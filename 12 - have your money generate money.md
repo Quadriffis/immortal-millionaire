@@ -97,3 +97,30 @@ In most cases your bank will be way to expensive to use for investment purposes.
 You should be automating your finances as much as possible. Not only will this buffer your emotional reactions to stock market changes, but it will cause a cost averaging effect.
 
 Make sure to have your investment platform decuct monthly chunks of money into your investment account.
+
+# Template: investing
+
+The first step is to find a low cost provider of investment assets. Specifically we are looking for parties offering index funds and ETFs[^Basically these are slices of assets] of index funds.
+
+We are looking for 2 things:
+
+1. A world index fund
+2. A world bond index fund
+
+Based on your risk profile you can lean more towards the stock index (considered riskier, but with higher payoff) or more towards the bond index (considered less risky but with lower returns).
+
+The rule of thumb often used is:
+
+> Invest your age in bonds and the rest in stock.
+
+In other words a 23 year old would invest 23% of his/her money into a bond index fund and 77% into a stock market index fund. If you have a higher tolerance for risk you can decide to alter this ratio.
+
+Make sure to rebalance your portfolio on a yearly basis. Meaning that if your stocks to very well and are now 90% of your portfolio, move some over into bonds to get back to the original ratio. Many investment platforms offer automated services for this.
+
+## Rules of thumb for trust
+
+While not accurate in all cases, usually it pays off to assume:
+
+- Mutual funds are not worth your money since they charge high fees
+- Vanguard is a trustworthy player
+- Don't take advice from someone who gains commissions from things they sell you
