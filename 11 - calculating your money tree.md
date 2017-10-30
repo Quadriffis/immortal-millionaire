@@ -98,7 +98,7 @@ An example calculation:
 | Fun shopping | 12000[^1000 a year seems good to me, maybe you like it higher or lower] |
 | **Total** | **€27,700** |
 
-This (€21,960) adds to the previous survival & fun (€21,960) to: €49,660
+This (€27,700) adds to the previous survival & fun (€21,960) to: €49,660
 
 # Calculating the size
 

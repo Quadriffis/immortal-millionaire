@@ -90,7 +90,7 @@ If you want to talk to a financial advisor, be sure to talk to a fiduciary, not 
 
 ## 2: Find a platform
 
-In most cases your bank will be way to expensive to use for investment purposes. It is important to realise that there is no high or low quality of the same financial product. A share in Google is a share in Google no matter where you buy it[^Of course there are types of shares, but so long as we are talking about the same asset the place you buy it has no impact].
+In most cases your bank will be way too expensive to use for investment purposes. It is important to realise that there is no high or low quality of the same financial product. A share in Google is a share in Google no matter where you buy it[^Of course there are types of shares, but so long as we are talking about the same asset the place you buy it has no impact].
 
 ## 3: Automate your investing
 
