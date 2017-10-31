@@ -47,7 +47,7 @@ Example for me in Amsterdam:
 | ------- | ------------ |
 | Rent (incl gas/water/electricity) | 780 |
 | Food | 200 [^I prefer 400, but can live on 200] |
-| Cellphone plan | 15 [^My current one is hgiher, but at current rates this serves my needs] |
+| Cellphone plan | 15 [^My current one is higher, but at current rates this serves my needs] |
 | Healthcare insurance | 100 [^Mandatory by law in the Netherlands] |
 | **Total** | €1095 |
 
@@ -85,7 +85,7 @@ Think instead about how you can have the *experience* you want. For example:
 
 - Buying a yacht is expensive, renting it for a week is cheaper. Are you really going to spend 6 months a year using it?
 - Same for private jets. Chartering a jet often beats owning one.
-- House as the beach? If you use it only a month a year perhaps budgeting for a high end airbnb suits you better.
+- House on the beach? If you use it only a month a year perhaps budgeting for a high end airbnb suits you better.
 - And so on.
 
 An example calculation:
@@ -95,7 +95,7 @@ An example calculation:
 | Spending winter in Spain | 6000[^3 months of €2000 gets you a sweet time in Spain. Lower cost places like Thailand will be even more extreme.] |
 | Weekly massages | 5200[^100 times 52 weeks] |
 | City trip every month | 4500[^500 per trip times 9 months (since we are in Spain in winter)] |
-| Fun shopping | 12000[^1000 a year seems good to me, maybe you like it higher or lower] |
+| Fun shopping | 12000[^1000 a month seems good to me, maybe you like it higher or lower] |
 | **Total** | **€27,700** |
 
 This (€21,960) adds to the previous survival & fun (€21,960) to: €49,660
