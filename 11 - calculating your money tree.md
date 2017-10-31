@@ -8,7 +8,7 @@ The goal of your money tree is to generate money for you. There are 3 steps to b
 
 For most people retiring on a money tree is feasible, especially if you start early.
 
-## Calculating the size
+# Calculating the size
 
 There are three money amounts we will calculate what you need to reach:
 
@@ -20,7 +20,7 @@ For each of these three we need to come to a specific number.
 
 > **Note:** The below examples will have a lot of holes, they are meant to illustrate the process, not to be 100% accurate.
 
-### Survival: not having to work
+## Survival: not having to work
 
 Your basic needs come down to food, shelter and obligations. Calculate your monthly cost and multiply by 12 to calculate what yearly income you need.
 
@@ -53,7 +53,7 @@ Example for me in Amsterdam:
 
 €1095 times 12 months equals €13,140. This is the after-tax income I need to survive.
 
-### Thriving: include fun
+## Thriving: include fun
 
 The second amount we calculate will include the spending desires you have. In this level we include regular stuff you currently do, but not yet your crazy dreams like holiday homes, private islands and space travel.
 
@@ -75,7 +75,7 @@ Note that this number will vary greatly per person and location. Many big city A
 
 There are no wrong answers. This is is about how you personally want to live yout life.
 
-### Freedom: the dreams
+## Freedom: the dreams
 
 This category is not about spending as much money as possible but rather about fulfilling your dreams. Note that this might take some research.
 
@@ -98,9 +98,9 @@ An example calculation:
 | Fun shopping | 12000[^1000 a month seems good to me, maybe you like it higher or lower] |
 | **Total** | **€27,700** |
 
-This (€21,960) adds to the previous survival & fun (€21,960) to: €49,660
+This (€27,700) adds to the previous survival & fun (€21,960) to: €49,660
 
-## Calculating the size
+# Calculating the size
 
 There is a well established rule in investing that a balanced portfolio can over time safely support a 4% withdrawal rate[^See the 1994 paper "Determining Withdrawal Rates Using Historical Data", http://www.retailinvestor.org/pdf/Bengen1.pdf].
 
@@ -122,7 +122,7 @@ Based on the calculations of the previous paragraphs:
 
 A little math trick: to get your money tree size based on 4% take your yearly income and multiple it by 25. (For the math people, this is because 1/.04 = 25)
 
-### Money forever?
+## Money forever?
 
 But won't your money run out as some point? Not if the 4% rule leeps going. Take the (simplified) example of €13,140. If your money has an average return of 4%, then every year the tree grows by €328,500 * 4% = €13,140. Which means that when you take €13,140 a year, you are always left with the original €328,500.
 
@@ -141,3 +141,20 @@ His exact words on withdrawals forever:
 > If you plan to live forever, 4% should do it.
 
 How do we make sure we get a 4% return while current[^As of 2017] interest rates are under 1%? We'll get to that in the investing chapter.
+
+# Template: calculating how much you need
+
+The basic steps are:
+
+1. Calculate your desired yearly income
+2. Multiply by 25
+
+The 25 multiplier assumes that you withdraw 4% on a yearly basis and adjust for inflation as you go along.
+
+It's recommended to calculate the amounts of money you need to:
+
+1. Not need to work but just survive
+2. Retire comfortably
+3. Live the life of your dreams
+
+The most important thing in here is to be specific.
