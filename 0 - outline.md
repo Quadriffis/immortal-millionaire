@@ -61,3 +61,27 @@ Section 2: Millionaire
 	- All weather portfolio
 	- Manual trading
 - Interesting opportunities
+
+# Final structuring
+
+- Recipe style?
+- Must figure out Pandoc or transfer to word
+- Decide on referencing style (impacts word-nonword decision)
+
+Recipe structure:
+
+- TL;DR
+- Detailed steps
+- Background
+- Further reading
+
+Recipes
+- Losing weight
+- Gaining muscle
+- Gaining strength
+- Gaining flexibility
+- Extending lifespan
+- Fi/re yourself
+- Budgeting
+- Passive investing
+- Active investing (external reccs)
