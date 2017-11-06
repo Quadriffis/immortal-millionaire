@@ -160,3 +160,9 @@ There is a lot of untrue common sense out there. In the fitness world it is ofte
 There is no limit to the amount of protein the body can consume in one meal, so no it's not 40 grams. This mantra stems from a misinterpretation of a study that found that 20-40 grams of protein was the most optimal per-meal consumption amount to stimulate muscle growth.
 
 Later studies have found that the body is perfectly capable of absorbing far above 40 grams in one meal. An extreme example is that people who eat one meal a day absorb the protein from their huge meals just fine.
+
+### Motivation and consistency
+
+As with losing weight things like acountability are very important. But while weight loss is an all-day endeavor, exercise is often more about routine and consistency.
+
+For strength training set triggers throughout the day. Try to make your home and place of work conducive to this. This might work better for some professions than others. Having a pull up bar in the door to your office is for example a great way to do single-rep slow pull ups throughout the day. Likewise having space in your office to do a quick one handed pushup will contribute to your consistency.

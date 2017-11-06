@@ -8,7 +8,7 @@ subtitle: Hacking your health & wealth for a better life
 
 Before reading this section keep in mind the following things:
 
-1. Most people don't need more muscle, just less fat
+1. Most people don't need most muscle, just less fat
 2. Strength and muscle size are not the same
 
 Before deciding on any course of action, be sure what your goals are. If you want to look in shape, usually losing weight through diet is the best course of action. That doesn't mean you shouldn't do exercise, but rather that you shouldn't rely on exercise alone to look more fit.
