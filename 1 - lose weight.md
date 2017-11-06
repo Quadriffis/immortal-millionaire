@@ -45,7 +45,7 @@ Never whitelist:
 | Sugar | Nuclear | Sugar in coffee | No satiety, lots of energy |
 | Drinks with energy content (kCal) | Nuclear | Fruit juice, soda | High calorie per second intake. Little satiety. |
 | Soft/white carbohydrates | High | Bagel, pasta | Low satiety, high energy |
-| Sweet fruits | High | Dates, figs, grapes, cherry | Fruits have a short lived effect on satiety and a high GI. Detrimental for weight loss. |
+| Sweet fruits | Moderate | Dates, figs, grapes, cherry | Fruits have a short lived effect on satiety and a high GI. Bad for weight loss, fine for long term health. |
 
 *Note: there are exceptions to all of these. There are very good pastas for example that are decent in satiety and not too bad in GI. When trying to lose weight, don't complicate your life by adding 'maybe, it depends' foods. Simplicity.*
 
@@ -53,7 +53,7 @@ Suggested accountability:
 
 Either go with a betting pool, or use a service like Stickk[^stickk] to set up a donation to a charity you hate. Do not choose a charity you like, Stickk is a deterrent for you, it must hurt you to lose. At Stickk you will choose a good (but stern) friend who will decide whether you stuck to your goals.
 
-## But why?
+## Why and how this works
 
 Weightloss is simple.
 

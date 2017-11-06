@@ -12,6 +12,6 @@
 - Tables
 - Resources
 
-## But why?
+## Why and how this works
 
 Explain all the things
