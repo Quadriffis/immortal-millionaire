@@ -51,7 +51,7 @@ Never whitelist:
 
 Suggested accountability:
 
-Either go with a betting pool, or use a service like Stickk[^stickk] to set up a donation to a charity you hate. Do not choose a charity you like, Stickk is a deterrent for you, it must hurt you to lose. At Stickk you will choose a good (but stern) friend who will decide whether you stuck to your goals.
+Either go with a betting pool, or use a service like Stickk[^stickk.com is a free service that will donate your money to a charity you hate if you don't commit to your goals.] to set up a donation to a charity you hate. Do not choose a charity you like, Stickk is a deterrent for you, it must hurt you to lose. At Stickk you will choose a good (but stern) friend who will decide whether you stuck to your goals.
 
 ## Why and how this works
 
@@ -61,7 +61,7 @@ The human body is a complex system, but it handles energy in accordance to the l
 
 > Weight change = energy intake - energy expenditure
 
-Humans measure the energy they consume in calories[^calories]. The above means simply that:
+Humans measure the energy they consume in calories[^Or more specifically kilocalories (kCal).]. The above means simply that:
 
 - If you eat more energy than you expend: you gain weight
 - If you eat less energy than you expend: you lose weight
@@ -70,7 +70,7 @@ There are other dimensions to body recomposition, but those are mostly psycholgi
 
 For anyone that thinks their body does not conform to this principle: If this were true, your body would be breaking the laws of physics. I assure you it is not.
 
-That said, there are people whos genetics make it easier or harder to lose weight. This is often due to their genetic food preferences[^starvation-diabetics].
+That said, there are people whos genetics make it easier or harder to lose weight. This is often due to their genetic food preferences[^Fun fact. People who grew up hungry have higher risk of diabetes because their body responded by increasing food cravings. It't not magic, it's science.].
 
 The main principle for weight loss is thus simply:
 
