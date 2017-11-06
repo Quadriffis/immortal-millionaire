@@ -1,19 +1,50 @@
----
-author: Mentor Palokaj
-title: The Immortal Millionaire
-subtitle: Hacking your health & wealth for a better life
----
+# Increase muscle mass
 
-# Muscle gain vs strength
+**Recipe**
 
-Before reading this section keep in mind the following things:
+1. Verify that you actually want more muscle rather than less fat
+2. Trigger muscle growth with resistance training
+	- Use the 5x5 rule to determine exercise intensity/weight
+	- Focus on technique
+	- Use free weights where possible
+3. Modify diet to suport muscle growth
+	- Protein consumption: 1.4x your lean muscle weight in grams
+	- Use the principles of the weight loss section
 
-1. Most people don't need more muscle, just less fat
-2. Strength and muscle size are not the same
+**Tools**
+
+Suggested exercises[^There are many other great approaches, for example with kettlebells. The same principle applies: train till (near) exhaustion of muscles.]
+
+What matters here is exhausting your muscles with short and intense exercise. For most people talking to a personal trainer at a gym is the best idea (often a single consult is free).
+
+| Exercise | Target |
+| -------- | ------ |
+| Deadlift | Back, arms, legs |
+| Barbell squat | Legs, butt, back |
+| Benchpress | Arms, chest |
+
+Suggested dietary practices
+
+| Factor | Recommendation |
+| ------ | -------------- |
+| Calories | Calculate your BMR. |
+| Protein intake | Minimum 1.4 times lean body mass. This is most important. |
+| Protein type | High DIAAS score. This is important. |
+| Protein timing | Regular if possible, max 40 grams per consumption. This is not high priority. |
+| Food types | Low GI, see weight loss section. |
+
+BMR formulas
+
+- Women BMR = 655 + (9.6 x weight in kilos) + (1.8 x height in cm) - (4.7 x age in years)
+- Men BMR = 66 + (13.7 x weight in kilos) + (5 x height in cm) - (6.8 x age in years)
+
+## Why and how this works
+
+Keep in mind that most people don't want more muscle, but rather desire greater muscle definition. The goal there is to reduce fat. For this purpose see the weight loss section.
 
 Before deciding on any course of action, be sure what your goals are. If you want to look in shape, usually losing weight through diet is the best course of action. That doesn't mean you shouldn't do exercise, but rather that you shouldn't rely on exercise alone to look more fit.
 
-# Gaining muscle: 2 variables
+### Gaining muscle: 2 variables
 
 To increase your lean muscle mass there are many very effective techniques. They all rely on two basic variables:
 
@@ -22,7 +53,7 @@ To increase your lean muscle mass there are many very effective techniques. They
 
 Any training programme that supplies both of the above will yield results. There is no one 'good' way of working out for muscle gain. There are however many bad ways.
 
-## Triggering muscle growth
+### Triggering muscle growth
 
 Triggering muscle growth is simple in principle. You want to send your muscles the signal that they are not sufficient. Exhausting your muscles by doing heavy things basically gives the signal of:
 
@@ -60,7 +91,7 @@ A guideline often used is the 5x5. In essence:
 
 The moment you can do 5 sets of 5 reps, up your weight.
 
-## Supply relevant nutrients
+### Supply relevant nutrients
 
 The second factor is feeding your body the building blocks it needs to grow muscle. In simple terms: proteins. There is a lot of nuance there to do with bioavailability and amino acid makeup, but in essence it comes down to those two questions.
 
@@ -129,96 +160,3 @@ There is a lot of untrue common sense out there. In the fitness world it is ofte
 There is no limit to the amount of protein the body can consume in one meal, so no it's not 40 grams. This mantra stems from a misinterpretation of a study that found that 20-40 grams of protein was the most optimal per-meal consumption amount to stimulate muscle growth.
 
 Later studies have found that the body is perfectly capable of absorbing far above 40 grams in one meal. An extreme example is that people who eat one meal a day absorb the protein from their huge meals just fine.
-
-# Strength is neurological
-
-While muscle size is one factor, it is not the only variable in muscle strength. The physical structure of the muscle determines theoretical output, like how many seconds it takes for a car to accelerate to a certain speed.
-
-What matters in practice is how strong the neurological signal to exert force is. There is a safety limit on the percentage of strength a muscle can theoretically and practically produce.
-
-> Electrocution or tetanus for example can cause the muscles to spasm violently enough to break bones.
-
-When training for strength you are in essense helping your body understand how much strength is safe to use.
-
-## Greasing the groove
-
-A popular approach to strength rather than muscle size is *greasing the groove* as described by Pavel Tsatsouline. This protocol consists of three tennets:
-
-1. High load (lots of effort)
-2. Low consecutive repetitions (no exhaustion)
-3. Regular repetitions throughout the day
-
-The **high load** refers to the need to use muscles close to their strength limit. It's not about exhausting them but rather about making one repetition of a difficult move.
-
-The **low repetition** element is linked to the above. If you can do 10 repetitions of a movement, it is not hard enough for this protocol.
-
-The **regular repetitions** refer to doing the high-load movements often throughout the day. Where muscle growth asks you to do 20 heavy movements after each other, this protocol wants you to do single repetition sessions every hour or even half an hour.
-
-The protocol as written by Pavel focuses on two body-weight exercises:
-
-- One handed (+one legged) push up
-- Pistol squat
-
-These are highly technical moves that stimulate a large number of muscle groups. The one handed/legged push up for example stimulates everything from triceps to pectorals to core and even the upper leg.
-
-The principles of this protocol however translate to many other exercises. Just keep in mind that this protocol is more dangerous with respect to injuries since you are training with high muscle load. Technique is even more important than with regular resistance training.
-
-# Motivation and consistency
-
-As with losing weight things like acountability are very important. But while weight loss is an all-day endeavor, exercise is often more about routine and consistency.
-
-It is highly recommended to read the motivation and accountability section in the weigth loss chapter. It still pays off to use accountability measures like betting pools or anti-charities. For strength and muscle gain however routine is of even more importance.
-
-For hypertrophy/size training it is advisable to have certain days or times of day where you exercise. Personally I like going to the gym (and consecutively sauna) in the morning. Whatever works for you, schedule it. Put it in your calendar. Preferably have a friend or personal trainer to hold you accountable.
-
-For strength training set triggers throughout the day. Try to make your home and place of work conducive to this. This might work better for some professions than others. Having a pull up bar in the door to your office is for example a great way to do single-rep slow pull ups throughout the day. Likewise having space in your office to do a quick one handed pushup will contribute to your consistency.
-
-# Template: Muscle gain
-
-Variable one is triggering muscle growth. What matters here is exhausting your muscles with short and intense exercise. For most people talking to a personal trainer at a gym is the best idea (often a single consult is free).
-
-**Suggested exercises**
-
-| Exercise | Target |
-| -------- | ------ |
-| Deadlift | Back, arms, legs |
-| Barbell squat | Legs, butt, back |
-| Benchpress | Arms, chest |
-
-- Use the 5x5 rule to determine your weight
-- Focus on perfect technique (ask a pro)
-- Use free weights where possible
-
-There are many other great approaches, for example with kettlebells. The same principle applies: train till (near) exhaustion of muscles.
-
-**Suggested dietary practices**
-
-| Factor | Recommendation |
-| ------ | -------------- |
-| Calories | Calculate your BMR. |
-| Protein intake | Minimum 1.4 times lean body mass. This is most important. |
-| Protein type | High DIAAS score. This is important. |
-| Protein timing | Regular if possible, max 40 grams per consumption. This is not high priority. |
-| Food types | Low GI, see weight loss section. |
-
-# Template: Muscle strength
-
-Strength is about high load, low consecutive repetitions and spaced out sets. Body-weight exercises are advisable since they can be done anywhere. This is important since most people don't have access to weights every hour or so.
-
-**Suggested exercises**
-
-Progression one:
-
-- Push up
-- One handed push up
-- One handed and one legged push up
-
-Progression two:
-
-- Squat
-- Pistol squat (down only)
-- Full pistol squat
-
-If a pull up bar is available, pull ups ar great.
-
-You may modulate the difficulty of any exercise by doing it slower. A 5 second push up is harder than a quick up/down for example.
