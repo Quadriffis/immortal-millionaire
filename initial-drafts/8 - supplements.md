@@ -19,7 +19,7 @@ Note however that blood tests are not like opening the door to a room to see wha
 
 For each of the things you test for there is probably a different test that needs to be run on your blood. It is therefore vital to know what you want to test for.
 
-Some interesting values include common deciciencies like:
+Some interesting values include common deficiencies like:
 
 - Vitamin d
 - Vitamin B12
