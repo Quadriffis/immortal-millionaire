@@ -1,14 +1,12 @@
 # Develop flexibility
 
-**Recipe**
-
 1. Choose stretching routines
 	- Treat them as normal length workouts
 	- 3x per week 1 hour is optimal
 2. Stick with them for at least 6-12 months
 3. Decrease intensity as you reach your desired flexibility
 
-**Tools**
+## Tools
 
 The best flexibility training schedule I've experienced is Gymnastics Strength Training (GST)[^I used https://www.gymnasticbodies.com. Specifically their fundamentals 1].
 

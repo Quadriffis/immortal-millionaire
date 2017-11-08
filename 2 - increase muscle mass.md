@@ -1,7 +1,5 @@
 # Increase muscle mass
 
-**Recipe**
-
 1. Verify that you actually want more muscle rather than less fat
 2. Trigger muscle growth with resistance training
 	- Use the 5x5 rule to determine exercise intensity/weight
@@ -11,9 +9,9 @@
 	- Protein consumption: 1.4x your lean muscle weight in grams
 	- Use the principles of the weight loss section
 
-**Tools**
+## Tools
 
-Suggested exercises[^There are many other great approaches, for example with kettlebells. The same principle applies: train till (near) exhaustion of muscles.]
+**Suggested exercises**[^There are many other great approaches, for example with kettlebells. The same principle applies: train till (near) exhaustion of muscles.]
 
 What matters here is exhausting your muscles with short and intense exercise. For most people talking to a personal trainer at a gym is the best idea (often a single consult is free).
 
@@ -23,7 +21,7 @@ What matters here is exhausting your muscles with short and intense exercise. Fo
 | Barbell squat | Legs, butt, back |
 | Benchpress | Arms, chest |
 
-Suggested dietary practices
+**Suggested dietary practices**
 
 | Factor | Recommendation |
 | ------ | -------------- |
@@ -33,7 +31,7 @@ Suggested dietary practices
 | Protein timing | Regular if possible, max 40 grams per consumption. This is not high priority. |
 | Food types | Low GI, see weight loss section. |
 
-BMR formulas
+**BMR formulas**
 
 - Women BMR = 655 + (9.6 x weight in kilos) + (1.8 x height in cm) - (4.7 x age in years)
 - Men BMR = 66 + (13.7 x weight in kilos) + (5 x height in cm) - (6.8 x age in years)

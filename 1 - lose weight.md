@@ -1,16 +1,14 @@
 # Lose weight
 
-**Recipe**
-
 1. Decrease the amount of calories you consume
 	- Generate a list of 'whitelisted' foods
 	- Generate a number of meals with these foods
 2. Institute routines
 4. Set up accountability
 
-**Tools**
+## Tools
 
-Suggested food whitelist:
+**Suggested food whitelist**
 
 | What stuff | How much | Notes |
 | -------- | ---------- | ------ |
@@ -21,7 +19,7 @@ Suggested food whitelist:
 | Nuts | Very limited intake | While low GI, 100g macadamia nuts is 700 kCal. Equivalent to 4.5kg cucumber. |
 | Can I eat... | Zero | If you need to ask, then you don't eat it. No 'superfood grains' or 'sugar free' snacks. Simplicity. |
 
-Sugested meal types:
+**Sugested meal types**
 
 | Meal | Instructions |
 | ---- | ------------ |
@@ -30,7 +28,7 @@ Sugested meal types:
 | Stirfried | Chop vegetables, put in pan with hot oil, stir until they are soft-ish. |
 | Yoghurt with fruits | Yoghurt + fruit in bowl. Spoon it. |
 
-Suggested routines:
+**Suggested routines**
 
 | Trigger | Action | Notes |
 | ----------- | ------ | ----- |
@@ -38,7 +36,7 @@ Suggested routines:
 | Waking up | 500ml (1 big cups) water | Cold water preferred. |
 | Hungry at non-meal time | Savory broth | Any whitelist food is fine, but zero-sugar broth packages are easy to cary around. |
 
-Never whitelist:
+**Never whitelist**
 
 | Food | Severity | Example | Why |
 | ---- | ------- | -------- | --- |
@@ -49,7 +47,7 @@ Never whitelist:
 
 *Note: there are exceptions to all of these. There are very good pastas for example that are decent in satiety and not too bad in GI. When trying to lose weight, don't complicate your life by adding 'maybe, it depends' foods. Simplicity.*
 
-Suggested accountability:
+**Suggested accountability**
 
 Either go with a betting pool, or use a service like Stickk[^stickk.com is a free service that will donate your money to a charity you hate if you don't commit to your goals.] to set up a donation to a charity you hate. Do not choose a charity you like, Stickk is a deterrent for you, it must hurt you to lose. At Stickk you will choose a good (but stern) friend who will decide whether you stuck to your goals.
 

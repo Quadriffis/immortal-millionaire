@@ -1,14 +1,12 @@
 # Increase muscle strength
 
-**Recipe**
-
 1. Do high load exercises in low repititions
 	- Do not do exercises to muscle failure
 2. Do many repititions spaced out over the day
 
-**Tools**
+## Tools
 
-Suggested exercises
+**Suggested exercises**
 
 Progression one:
 
