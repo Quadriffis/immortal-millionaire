@@ -1,5 +1,8 @@
 # Increase life and health span
 
+Life span: duration of life.
+Health span: years of health.
+
 1. Take care of the basics first
 2. Compensate for deficiencies
 3. Keep an eye on your blood values
