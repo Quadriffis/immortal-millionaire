@@ -11,3 +11,5 @@ The summaries are bullet points. They are most valuable once you've read the cha
 The tools sections supply links to interesting external sources of information and tools.
 
 The why & how dissects the reasons behind the summary and dives into the details of operationalising the summary steps.
+
+Look at this[^This is a footnote. if you are reading this on Github though it will probably not render as one. Please take this into account.]
