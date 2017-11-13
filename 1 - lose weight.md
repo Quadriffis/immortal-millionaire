@@ -208,3 +208,72 @@ Rules of thumb:
 | Egg small/large | 50/75 kCal | |
 
 The above is stupidly oversimplified. But *measuring something always beats measuring nothing.*
+
+## How I found out
+
+It all started as a bet with my mother. At the time I was in highschool and intensively practiced trampolining. Think gymnastics, only on trampolines (it's an olympic sport I kid you not).
+
+While I was running on a teenager metabolism training 5 times a week, my body did not so much say 'jock' as it did 'meh'. My mom commented on this as some point, which led me to confidently proclaim "I bet you I can get ripped within 4 weeks". And so it began.
+
+You see, at this point I did not know biology the way I did now. I mostly grabbed things my brain rewarded me serotonin and dopamine with:
+
+- Energy drinks (4 cans mid day? sure)
+- Cookies (google 'roze koek' for dutch delicacy)
+- Chocolate (multiple bars of course)
+
+The epitome of my food habits at the time was a thing called boterkoek, which loosely translates to buttercake because it's basically butter with some flower.
+
+The bet changed everything. One thing I did have back then was my base personality traits. A big one of them is having an innate visceral resistance to the words "that is not possible". And so my obsession with all things food started. Experiments included:
+
+- Eating only fruit
+- Eating no food
+- Smoothies
+- No sweet things
+- More sports
+
+These were the days where Google hadn't learned to filter out spam webpages very well. I spent many days reading pages that were trying to sell me everything from magical weight loss bracelets to berry extracts. Through the noise there was one approach that caught my eye: the paleo movement.
+
+Note that at this point the whole paleo diet was not well known at all. The paleo diet dictated a number of things that seemed to make sense, and some I would never agree to:
+
+- No sugar (ok fine)
+- No legumes (sure)
+- No grains (?)
+- Meat is good (oh god yes)
+- No dairy (Wat. No. I'm Dutch)
+
+Understand that the Dutch diet looks very much like the opposite of the above. Breakfast is bread with chocolate sprinkles[^Google hagelslag] with a glass of milk. Lunch is bread with cheese and a glass of milk. Dinner is potato with meat and some vegetables[^Google boerenkool or hutspot].
+
+It was incredibly hard for my teenager brain to summon the willpower to make the above work. My mom basically told me I can eat whatever I want, but if I want something other than she cooks it's my responsibility to buy and cook the food I want.
+
+Over the coming weeks a number of things happened:
+
+- I lose weight
+- My acne ridden skin cleared up
+
+Guess what teenage me really cared about. Screw the scale, my skin was a cause of great insecurity.
+
+The months after that were spent reading research reports on everything to do with the relationship between skin and food. From ebooks to spam webpages and research papers I barely understood, I read everything I could find.
+
+> My curse was my blessing, deviating from eating good food messed my skin up within 24 hours.
+
+After a while a pattern emerged. I could keep my skin good my sticking to some simple principles:
+
+- Low GI foods
+- No searing hot showers (especially on my face)
+
+As time went by I refined my approach. I tried supplements, fasting regimens and all sorts of hormetic exposure like hot (sauna) and cold (ice). A whole world opened up. I felt the world had lied to me, lesser known but clever people told me that:
+
+- Sugar is bad for pretty much everything
+- My acne was not just genetics but linked to my food consumption
+- Fasting is good for you
+- Adult humans have brown fat[^A type of fat thought to be exclusive to babies. This type of adipose tissue burns energy]
+- Weight loss is not about sports[^This took me a long time to get over. Eventually the base metabolic rate calculation convinced me.]
+- Supplements are not just quackery[^Though I quikly found out a great deal of them are]
+
+As time went by I found more and more interesting information in the corners of the internet. I obtained audiobooks from questionable webpages, downloaded pdfs of books and discovered online forums. Half of the ways I obtained information back then are illegal now due to copyright legislation[^Stressing here that at the time everything I did was in compliance with Dutch law]. Teenage me without money was very grateful to communities like Demonoid[^Illegal now in most places, and the community seems dead] where people all over the world shared copies of books that I could not afford back then.
+
+> This singular event, the bet with my mother, amplified by the power of the internet, kicked off everything I know about health and fitness.
+
+In the years after I was strongly influenced by writers like Tim Ferriss who poineered the slow carb diet. By the time he published this very effective weight loss approach the principles came as no surprise to me anymore.
+
+This is also the point in time where I had started university and was fast learning how to read actual research. This is the basis of much of the next chapters.
