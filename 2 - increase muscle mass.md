@@ -164,3 +164,76 @@ Later studies have found that the body is perfectly capable of absorbing far abo
 As with losing weight things like acountability are very important. But while weight loss is an all-day endeavor, exercise is often more about routine and consistency.
 
 For strength training set triggers throughout the day. Try to make your home and place of work conducive to this. This might work better for some professions than others. Having a pull up bar in the door to your office is for example a great way to do single-rep slow pull ups throughout the day. Likewise having space in your office to do a quick one handed pushup will contribute to your consistency.
+
+## How I found out
+
+As my journey into health and fitness began (see weight loss chapter) I also started researching muscle. As any teenage boy insecure about their body will tell you, a little muscle definition never hurt anybody.
+
+Before I knew it I was indoctrinated in the bro-science world of fitness. Supplements, meal frequency, high protein diet and using my muscles to make repetitive motions. While I had some results, things were not moving as fast as I hoped.
+
+My personal goals were to obtain:
+
+1. Abs. Make me like Thor please
+2. Greek god chistled muscles
+
+While I was using my muscles very intensely (training 5-7 times a week depending on the season) I was not getting significantly closer to reaching my desired body. I was certainly in shape, but not where I wanted to be.
+
+Enter Pavel Tsatsuline, Tim Ferriss, Martin Berkhan and Ori Hofmekler.
+
+Pavel Tsatsuline is a strength guru who brands himself in line with his Russian background. He goes around calling people 'comrade' and generally just keeps a no nonsense approach. He taught me through his writings that:
+
+1. Muscle gain and muscle strength are not the same
+2. You don't need a huge arsenal of equipment and exercises (squat, deadlift, benchpress)
+3. Kettlebells are a great one-stop shop
+
+
+> Doing the perfect kettlebell swing alone is superior to 99 percent of the sophisticated strength and conditioning programs out there. ~ Pavel Tsatsouline
+
+Tim Ferriss collected a whole lot of valuable advice on all things health. For muscle gain I was greatly inspired my the occam's protocol. This exercise and food protocol uses 30 minutes of exercise a week to gain a lot of muscle in a very short span of time.
+
+While I am not in favor of using this protocol in the long, run it drove home a very powerful point: time spent and results gained are **not proportional**.
+
+> It's Possible To Get Huge With Less Than 30 Minutes Of Gym Time Per Week. ~ Timothy Ferris
+
+Martin Berkhan runs a blog called Leangains, and while it has been inactive for a while[^At the time of writing] it had a big impact on me. Him and Ori Hofmekler who wrote 'the warrior diet' showed me that bro-science is wrong most of the time. 
+
+Both of these men promote versions of intermittent fasting and time restricted eating. What they wrote went against common principles like:
+
+- You need to eat every 3 hours for muscle gain
+- Your body can only absorb x amount of protein per meal
+- You should use machines for workouts
+- You need to 'confuse' your muscle by rotating exercises
+- Fat should be avoided
+- And so on
+
+The message from both was very encouraging: it's not all that complicated.
+
+> Fuckarounditis is a behavioral disorder characterized by a mediocre physique and complete lack of progress, despite significant amounts of time spent in the gym. ... Fuckarounditis most commonly manifests itself as an intense preoccupation with crunches, curls, cable movements, belts, gloves, balance boards, Swiss Balls and Tyler Durden. Fear of squats and deadlifts is another distinguishing trait. Physical exertion is either completely lacking or misapplied (towards questionable or unproductive training practices). ~ Martin Berkhan[^See his total 'diagnosis' here: http://www.leangains.com/2011/09/fuckarounditis.html]
+
+Many of the things written by them were the precursors for my current views on food and exercise. The principles that kept coming back were:
+
+- Eat enough but not excessive protein
+- Train your muscled until failure
+- Use compound exercises that train may muscles at once
+
+Based on these principles I began to experiment on my own body, and thus developed my favorite blend of exercise. For me that meant that my goals developed and changed, I wanted:
+
+1. Low time investment
+2. Portability
+3. Strength & mobility
+
+After a while I can to the conclusion I have no desire to be a muscle monster. I want to be strong and have well defined muscles. I want to be able to move heavy things, make high jumps and move fluidly.
+
+What this has ended up in is a combination of Pavel's teachings and that of Coach Sommer[^Full name Christopher Sommer] (who we'll discuss later).
+
+I do only 5-10 minutes or so of exercise a day, consisting out of:
+
+- 15 one handed and one legged pushups per arm
+- 15 pistol squats per leg
+- 15 press handstands
+
+All required a lot of training in strength and balance, but once I got there doing an intense set of both keeps me in good physical shape.
+
+That said I can't stress enough how important food is for muscle growth and general body composition. I have gone through periods of zero exercise (shame on me) where my body composition barely changed due to food choice and fasting practices.
+
+Over time I learned the mechanisms behind the workings of hypertrophy[^Muscle cell increase], hyperplasia[^Increased muscle cell count] and strength systems. Personally I only learned about the underlying mechanisms after I had experienced the effects first hand.
