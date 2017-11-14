@@ -213,7 +213,7 @@ The message from both was very encouraging: it's not all that complicated.
 Many of the things written by them were the precursors for my current views on food and exercise. The principles that kept coming back were:
 
 - Eat enough but not excessive protein
-- Train your muscled until failure
+- Train your muscles until failure
 - Use compound exercises that train may muscles at once
 
 Based on these principles I began to experiment on my own body, and thus developed my favorite blend of exercise. For me that meant that my goals developed and changed, I wanted:
