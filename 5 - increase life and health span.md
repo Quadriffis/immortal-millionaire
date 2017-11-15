@@ -392,3 +392,29 @@ For this supplement it is important to realise that fatty acids are essential fo
 On supplement bottles you will often find references to EPA and DHA. These are two forms of omega 3 fatty acids. Their structure differs and research indicates that their effect differs as well.
 
 If you plan to take fish oil on a long term basis make sure that you choose a reputable supplement that is adequately purified. The fish used to produce the oil may contain toxins like heavy metals (especially if the source fish is high up the food chain) that need to be filtered out.
+
+## How I found out
+
+My bachelors degree turned out to be a double blessing. Not only did I get to explore human biology through cirriculum, but many classes required me to write research papers on a topic of my choice.
+
+It took some convincing in some cases, but in many cases I could use these papers to dive deeper into subjects that interested me. One pivotal moment was a metabolism paper I wrote called "Resveratrol bioavailability and Action". It was by no means a masterpiece, but triggered the interesting notion that the human body has built in mechanisms that increase lifespan.
+
+You see, resveratrol was at the time considered a promising life extension compound. It's a powerful antioxidant that influenes gene expression. It seemed to:
+
+- Protect against cancer
+- Activate the SIRT1 gene group who's equivalent extends life in other organisms
+- Buffer the effects of high cholesterol
+
+It turns out that resveratrol supplementation in humans is not all that effective since our liver metabolises it very quickly.
+
+Nonetheless my interest was piqued. Specifically the SIRT1 gene group spoke to my imagination. Specifically the idea that the human body is capable of extending it's lifespan if we take the right steps in our lifestyle.
+
+This lead me to an interest into epigenetics, the study of how the environment influences gene expression. One important thing to understand here is that genes are not a blueprint for the human body in the way that pop-culture sometimes presents it.
+
+Human genes are an if-this-then-that system. If a certain stimulus is given human cells are programmed to respons in a certain way. For example (simplified):
+
+- Sunlight > activate melanin genes > darker skin
+- Vitamin d > influences hundreds of genes > changes in bone, mood, immune system etc
+
+I felt like I had discovered something magical. After hearing my entire life that genes are a static blueprint that make my body what it is, I now knew that my genes are just a large repository of potential outcomes.
+
