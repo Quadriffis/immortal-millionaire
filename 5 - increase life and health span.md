@@ -418,3 +418,16 @@ Human genes are an if-this-then-that system. If a certain stimulus is given huma
 
 I felt like I had discovered something magical. After hearing my entire life that genes are a static blueprint that make my body what it is, I now knew that my genes are just a large repository of potential outcomes.
 
+While resveratrol seemed to be a bust, my interest into longevity was piqued. Specifically, many studies seemed to talk about insulin when talking about longevity. Even resveratrol had a close link to insulin and related measures. A later paper I wrote called "The role of insulin in fasting metabolism and gene expression" was my first touchpoint with what I would later learn to call intermittent fasting and the ketogenic diet.
+
+During the researching of this paper I found some things I at the time called counterintiutive, for example:
+
+- Fasting increases growth hormone levels
+- The body is perfectly capable of producing glucose without eating carbohydrates (or anything for that matter)
+- Fasting periodically has similar benefits to limiting food consumption
+
+In that particular paper I learned the basics of FoxO and mTor functions and how they relate to fasting and longevity.
+
+As much as I enjoyed the rabbit hole of academic research, I'm a practically inclined person. After handing in this paper I started a regime of 16 hours of fasting a day. I expected to find it very hard to do, but actually thrived on this approach.
+
+Since I had formulated some strict rules for myself as to what I do and do not eat, keeping myself fed throughout the day was a bit of a challenge. Not having to worry about food for the majority of the day was incredibly freeing!
