@@ -425,9 +425,25 @@ During the researching of this paper I found some things I at the time called co
 - Fasting increases growth hormone levels
 - The body is perfectly capable of producing glucose without eating carbohydrates (or anything for that matter)
 - Fasting periodically has similar benefits to limiting food consumption
+- Fasting is good for the brain
 
 In that particular paper I learned the basics of FoxO and mTor functions and how they relate to fasting and longevity.
 
 As much as I enjoyed the rabbit hole of academic research, I'm a practically inclined person. After handing in this paper I started a regime of 16 hours of fasting a day. I expected to find it very hard to do, but actually thrived on this approach.
 
-Since I had formulated some strict rules for myself as to what I do and do not eat, keeping myself fed throughout the day was a bit of a challenge. Not having to worry about food for the majority of the day was incredibly freeing!
+Since I had formulated some strict rules for myself as to what I do and do not eat, keeping myself fed throughout the day was a bit of a challenge. Not having to worry about food for the majority of the day was incredibly freeing! Not only that, but my mental and physical energy levels increased during the times I didn't eat.
+
+Throughout my university years I started more and more to research longevity and unconventional lifestyles to optimise the body. After the first two years of study I had converted myself to:
+
+- Intermittent fasting
+- Sauna sessions 5+ times a week
+- Low carb leaning to ketogenic diet
+
+I also continued to experiment with:
+
+- Cognitive enhancement supplements & practices
+- Alternative sleep cycles
+
+Through the years of experimentation I learned to separate fact from fiction. Since then words like intermittent fasting and ketogenic diet have become pop culture. It's the first time I've been a hipster, I did it before it was cool.
+
+While my post-university years were when I refined a lot of my protocols and theories, the basis for all of it has been my years in the academic world.
