@@ -121,3 +121,43 @@ Budgeting is not about giving you an extra chore or making your life more diffic
 **Have a guilt free category** budget fun into your life. Have a category of money you can spend without justification. Don't make it too much, but enough for smaller fun expenses.
 
 **Sharing the love** is one of my favorite categories. It is a small budget category that you can only spend on other people. From charities to taking a friend out for dinner. It's a very fulfilling (optional) part of a budget.
+
+## How I found out
+
+My father has done a lot of projects in Croatia. For the family that meant we went to visit this sunny mediteranean country pretty much every summer. One thing that got me and my brothers in a frenzy was the difference in currency. One euro was usually the equivalent of 7 Croatian kunas. The weeks before the holiday we turned the house upside down for kunas, either those left from last holiday or pocket change my dad left lying around.
+
+Money played an important role for us children in the holidays. We each got 10 kunas a day to spend as we saw fit. In practice this meant it was icecream money. It's not that my parents didn't buy us icecream, but we didn't get to decide when they would buy us frozen deliciousness.
+
+After having breakfast we would spend the morning arguing what was the best iceccream to get:
+
+- The water based sticks were cheap so we would get 5 of them
+- The creamy icecreams were more expensive, often allowing only 1 a day
+- The magnums were often over 10 kunas, meaning getting one meant abstaining from icecream for a day
+
+Obsessing over icecream taught me many things about managing money. Especially about balancing the desires you have right this second, and how they relate to the posibility of a novel experience (or icecream) at a later date.
+
+Aside from teaching us the rudementary principles of a budget, we many times ended up finding ways to make more money. Either we would bet against eachother, or we would dive up pretty shells and sell them as necklaces in town.
+
+Once we got older and had our own bank accounts we no longer had the constraint of 10 kunas a day of course, but the lessons remained.
+
+While the foundation for my current budgeting skills was laid in my childhood, it took until university to crystallise into a solid and specific budget system. University was an exercise similar to my childhood holidays. The Dutch government would give me a specific amount of money each month, and I had to survive on it.
+
+The first months I played by ear and mostly managed. I like being self sufficient, so the idea of asking my parents for food money because I failed to plan properly was horrifying. I knew they would help me, but I viscerally didn't want to need help. Truth be sold I had to ask for help anyway in the first year, which fuelled my desire to figure out my finances.
+
+A world opened for me once I started really measuring my expenditures. Using apps to track my spending meant I could at the end of the month diagnose where exactly my money went and why. Not only that, but the act of recording my spending made me think twice about whether the expense was justified.
+
+I reached my budgeting heaven when I discovered You Need A Budget. At the time it was still a standalone piece of software which I bought through the gaming platform steam. It's ironic that my favorite budgeting program was purchased during a game discount sale.
+
+Using YNAB and their structure made me feel excited to do my monthly budget. Truth be told I didn't have enough money to even use the functionality to it's fullest extent. I was supposed to save up enough money to cover the expenses for next month, what YNAB calls 'ageing your money'. I started saving towards it and expected to take 6 months to a year to get there.
+
+YNAB really had an impact once I started working. By this time I had a good handle on my money, I knew my expenses and how to manage them in a predictable manner. Now that money actually started flowing in I started accumulating a buffer and even investment money. I was not making all that much, but because I had a good budgeting structure I grew my net worth quicker than any of my friends.
+
+I learned from these developments that what worked for me:
+
+- Starting budgeting before you have proper income
+- Consider saving a present for your future self (I even labeled saving transactions as such)
+- Set aside reasonable money for guilt free spending
+
+I've now solidified a budget structure I find a joy to work with. I've set aside 6+ months of living expenses so I can take my time switching jobs if I want, have money set aside to invest in different things and get to buy toys & tech without feeling guilty over it. I even have a budget category for money I can only spend on other people (thank you Tony Robbins for that suggestion).
+
+It was a revelation for me that budgeting doesn't have to be painful but can be fun instead.
