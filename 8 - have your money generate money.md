@@ -158,3 +158,78 @@ While not accurate in all cases, usually it pays off to assume:
 - Mutual funds are not worth your money since they charge high fees
 - Vanguard is a trustworthy player
 - Don't take advice from someone who gains commissions from things they sell you
+
+## How I found out
+
+I had just started university when the occupy movement gained traction. As I mentioned in the previous chapters, my years of university taught me a lot about money. The occupy movement popularised all sorts of things like:
+
+- The 1%
+- The rich get richer
+- Unfair banking
+
+I understood very little about the underlying systems at the time. As I gradually learned more, I think I came to some conclusions that the occupy movement didn't intend.
+
+The 1% richest in the world earn over €30,250 a year. Something even a school teacher can make in my country. I understood that the movement meant to point at difference within the US, but it lost some wind for me in the grand perspective of the world. I did learn that all hapiness and health outcomes of a people are linked to income disparity. On all accounts I'm happy to live in the Netherlands.
+
+The rich get richer took me a while to internalise. It expresses that having money somehow gets you more money. It made no sense to me, until I saw a graph of compound interest. Suddenly it made sense, based on basic math we can say that the more you have the more and faster you gain money. This felt like the best news ever! Who cares about the billionaires and aristocrats, you are telling me that as my life goes on I will progressively get more and more money? The race gets easier as I go along? Sign me up.
+
+The unfairness of the banking and investing world did strike me as a fundamental disservice to humanity. As I found out about wonderful tools like low cost index funds, I also found out most major Dutch banks charge a stupid and unfair amount of fees for you to buy financial products with them. I then discovered that this is a great time to be alive, there are multiple new players shaking up the industry with low cost and high quality solutions (looking at you Brand New Day and Degiro).
+
+All in all the occupy movement firmly taught me one thing:
+
+> I need to learn the rules of the game called "money"
+
+In the following years I started looking at the game of money in more detail. Soon enough I found that things were not as bad as they seemed. There was a stark contrast between two camps, the people who:
+
+- Achieved what I wanted to achieve had simple advice
+- Wanted to sell me their financial products said investing is complicated
+
+After reading a number of books I was sold on stock and bond index funds. I had read about a company called vanguard the offered products structured in a fair way and was determined to get started with them. I did what I thought made sense:  I called my bank to ask about the posibility to buy vanguard ETFs.
+
+The result was depressing. I was treated like an annoyance. As a twentysomething year old wanting to invest I had a few thousand euros saved to invest, which was a lot of money for me. The phone call went along the lines of this:
+
+- Bank: "Hello this is Bank"
+- Me: "Hello, this is your customer Mentor. I would like to invest in vanguard ETFs but can't seem to find the way to do this on your website."
+- Bank: "We offer investment services through another department, how much are you wanting to invest?"
+- Me: "I am just starting out and am looking to build up a solid portfolio for the coming 40 years."
+- Bank: "Sigh. Well sir, I think for a person your age this is not the right avenue to explore. We like to deal with larger clients who let us manage their wealth."
+- Me: "I get that, and I intend to become one of those people. What are your fees?"
+- Bank: "That really depends"
+- Me: "Sir, I just want to know what your transaction and management fees are."
+- Bank: "Sigh. That question is not so straightforward. There are many types of fees that differ per product and client."
+- Me: "Can you give me an example?"
+- Bank: Goes on to explain ridiculous fees.
+- Me: "Thank you for your time sir"
+- Bank: Hangs up.
+
+I was so utterly disappointed. Was this the kind of person I would have to deal with if I wanted to grow my wealth? Was the banking sector filled with dead-eyed snobbish 'advisors' that would not give me the light of day until I was a millionaire?
+
+The day was still young, do I resolved to give the vanguard corporation itself a call. Turns out they have an Amsterdam office. I expected to be taking to a receptionist who would connect me to an even worse banker. After all, this was the company behind the assets my bank would trade for me.
+
+- Vanguard: "Hello this is X from vanguard"
+- Me: "Hello, my name is Mentor. I a looking to start a portfolio and have read many recommendations for vanguard."
+- Vanguard: "That is good to hear! It's always exciting when a person decides to start investing"
+- Me: Confused. Is that enthusiasm? "So can I open an account with you directly?"
+- Vanguard: "Ah sir, I'm afraid we don't do dealings with consumers directly in the Netherlands. We only do that in the US."
+- Me: "Ok, thank you for your time"
+- Vanguard: "But I'm happy to talk you through the types of products we have available in the Netherlands and their pros and cons if you would like?"
+- Me: Astonished face. "Yes please"
+- Vanguard: Takes a full half hour to talk me through all the options, answers all my questions in detail.
+- Me: "So what company can I buy your products at?"
+- Vanguard: "I'm afraid vanguard doesn't recommend specific brokers"
+- Me: "Any personal advice?"
+- Vanguard: "Sure thing. I prefer working with broker Binck, but have also heard good things about Brand New Day which was founded by some founders of Binck after they left. I have not heard good things about most traditional banks."
+- Me: "Thank you very much for taking the time to help."
+- Vanguard: "My pleasure, call back anytime."
+
+I was astonished. This person just took 45 minutes out of his day to help a young guy who obviously is not a millionaire. That same day I called Binck and Brand New Day. Both took a great deal of time answering my questions. They gave me advice on diversification, tax structuring, lifetime cycles and all sorts of things I hadn't thought about. And neither of them tried to pressure me into buying anything.
+
+That day I learned that there are kind and helpful people who are trying to do good in the banking industry. Sure, there are arrogant numbskulls who I imagine live up to the stereotypes the occupy movement put forth. But when I looked around, I found people doing their best to subvert the system to benefit regular people with regular incomes.
+
+The helpful new companies did everything the advice I had gotten in the past years tole me to do:
+
+- Use low cost index funds that reinvest dividends
+- Have low transaction fees
+- Automate the whole investment portfolio
+
+The months following I set up and automated portfolio and let my broker automatically deduct monet from my account on a monthly basis. Of course those transactions go into my budget as "present for future Mentor".
