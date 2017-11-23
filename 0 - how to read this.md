@@ -1,6 +1,6 @@
 # How to approach this content
 
-Each chapter is written so as to have a 'how to ...' approach. Every chapter has 3 sections:
+Each chapter is written so as to have a 'how to ...' approach. Every chapter has 4 sections:
 
 1. Summary
 2. Tools
