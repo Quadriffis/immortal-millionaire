@@ -1,5 +1,8 @@
 # Increase muscle strength
 
+- Show working out puppet with a speedometer next to it with green/orange/red sections where there is a stop arrow where the gree ends
+- Cartoon style windows where the puppet is doing exercises in different settings
+
 1. Do high load exercises in low repititions
 	- Do not do exercises to muscle failure
 2. Do many repititions spaced out over the day
