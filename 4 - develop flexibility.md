@@ -1,10 +1,16 @@
 # Develop flexibility
 
+Proposed infographics:
+
+- Have two comic windows, the first filled with a person 'shopping' for stretching routines and the second where they are in a gym working out (clock in the corner showing 1 hour)
+- Have a crossed out calendar that shows inprovement somehow
+- Show a window similar to the first workout one where the clock shows 30 minutes
+
 1. Choose stretching routines
 	- Treat them as normal length workouts
 	- 3x per week 1 hour is optimal
 2. Stick with them for at least 6-12 months
-3. Decrease intensity as you reach your desired flexibility
+3. Decrease intensity as you reach your desired flexibility (or don't and keep developing)
 
 ## Tools
 
