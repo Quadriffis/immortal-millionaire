@@ -1,5 +1,11 @@
 # Have your money generate money
 
+Proposed infographics:
+
+- Our character with a person with a tie holding papers that have a 90% off label
+- Show 3 puppets of different ages with pie charts of different divisions
+- Bank statement showing recurring charges flyiing off the page to a piggy bank
+
 1. Find a low cost provider of index funds & bond index funds
 2. Set your profile to your age in a bond index and the rest in a stock index
 3. Set up automated transfers on a monthly basis
