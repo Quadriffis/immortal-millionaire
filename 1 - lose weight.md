@@ -1,5 +1,11 @@
 # Lose weight
 
+Proposed infographic:
+
+- Food pyramid on the left with al sorts of foods crossed out, arrow pointing at food pyramid with specific foods on the right.
+- Sunrise graphic of person getting up with info balloons in kitchen showing a 30 grams of protein within 30 minutes of getting up
+- Person about to eat cake next to a friend (balloon?) holding a whip
+
 1. Decrease the amount of calories you consume
 	- Generate a list of 'whitelisted' foods
 	- Generate a number of meals with these foods
