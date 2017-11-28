@@ -1,5 +1,12 @@
 # Manage a budget
 
+Proposed infographic:
+
+- 1&2: Show a transparent house where there are text bubbles describig costs (maybe the person and his girlfriend are prepping to go out for dinner? Takeout coffee cup on the table?). Next to the house have two lists: must spend and optional spending
+- Show 3 cards with icons showing the different expense types. Only the daily operations card has an arrow to a wallet, the others to s cupboard.
+- Visualise the YNAB way, maybe ask then for permission? Not sure what the copyright status is.
+- Show a person spending on a pair of shoes with a halo around it. Also spending money on a present (with thought buble of another person's face)
+
 1. Create a list of monthly expenses you can't avoid (e.g. rent)
 2. Create a list of optional expenses that you consistently spend (e.g. coffee)
 3. Set up 3 accounts
