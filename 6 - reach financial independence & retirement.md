@@ -1,5 +1,11 @@
 # Reach financial independence / retirement (Fi/Re)
 
+Proposed infographics
+
+- Show a transparent house where there are text bubbles describig costs (maybe the person and his girlfriend are prepping to go out for dinner? Takeout coffee cup on the table?), then a big number next to the house.
+- Show the number x25 (simple math vizualisation), maybe piles of coins in the background?
+- Icon visualisation: You + money + stock market graph = money + more money (the new money is colored different?)
+
 1. Calculate your desired yearly income
 	- Create an inventory of your non-optional expenses & add them together
 	- Make 3 tiers: survival, comfort & thriving
