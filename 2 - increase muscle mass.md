@@ -1,5 +1,11 @@
 # Increase muscle mass
 
+Proposed infographic:
+
+- Side by side comparisson of a person who gained muscle but has fat and a person who gained no muscle but lost fat.
+- Gym infographic of a workout supervised by a professional
+- Two plates where the left is a regular meal and the right has increased protein. Maybe use breakfast to we can use eggs, dinner might imply increased meat consumption which is a stereotype I don't like.
+
 1. Verify that you actually want more muscle rather than less fat
 2. Trigger muscle growth with resistance training
 	- Use the 5x5 rule to determine exercise intensity/weight
