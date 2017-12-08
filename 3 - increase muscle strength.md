@@ -6,6 +6,7 @@
 1. Do high load exercises in low repititions
 	- Do not do exercises to muscle failure
 2. Do many repititions spaced out over the day
+	- Or if you prefer working in a gym, take breaks between sets
 
 ## Tools
 
@@ -26,7 +27,7 @@ Progression two:
 
 If a pull up bar is available, pull ups are great.
 
-You may modulate the difficulty of any exercise by doing it slower. A 5 second push up is harder than a quick up/down for example.
+You may modulate the difficulty of any exercise by doing it slower. A 5 second push up is harder than a quick up/down for example. Some studies indicate that focussing on eccentric movement (downward in this case) is best for strength development.
 
 ## Why and how this works
 
@@ -34,7 +35,7 @@ You may modulate the difficulty of any exercise by doing it slower. A 5 second p
 
 While muscle size is one factor, it is not the only variable in muscle strength. The physical structure of the muscle determines theoretical output, like how many seconds it takes for a car to accelerate to a certain speed.
 
-What matters in practice is how strong the neurological signal to exert force is. There is a safety limit on the percentage of strength a muscle can theoretically and practically produce.
+What matters in practice is also the strength of the neurological signal to exert force. There is a safety limit on the percentage of strength a muscle can theoretically and practically produce.
 
 > Electrocution or tetanus for example can cause the muscles to spasm violently enough to break bones.
 
@@ -50,9 +51,9 @@ A popular approach to strength rather than muscle size is *greasing the groove* 
 
 The **high load** refers to the need to use muscles close to their strength limit. It's not about exhausting them but rather about making one repetition of a difficult move.
 
-The **low repetition** element is linked to the above. If you can do 10 repetitions of a movement, it is not hard enough for this protocol.
+The **low repetition** element is linked to the above. If you can do 10 repetitions of a movement, it is not hard enough for this protocol. Heavier exercises with lower repetitions are better under the condition you can execute them with good technique.
 
-The **regular repetitions** refer to doing the high-load movements often throughout the day. Where muscle growth asks you to do 20 heavy movements after each other, this protocol wants you to do single repetition sessions every hour or even half an hour.
+The **regular repetitions** refer to doing the high-load movements often throughout the day. Where muscle growth asks you to do a larger volume of heavy movements after each other, this protocol wants you to do single repetition sessions every hour or even half an hour.
 
 The protocol as written by Pavel focuses on two body-weight exercises:
 
@@ -86,7 +87,7 @@ Eccentric refers to the negative part of an exercise, the part where the muscle 
 
 I started experimenting with all sorts of exercises, mostly in the gym. After listening to a podcast featuring Pavel Tsatsuline I obtained some of his books. In particular one called The Naked Warrior.
 
-This book caught my eye because it focussed on bodyweight training only. The appeal of that approach to me is that I can keep practicing when traveling or am otherwise unable to got to a gym.
+This book caught my eye because it focussed on bodyweight training only. The appeal of that approach to me is that I can keep practicing when traveling or am otherwise unable to go to a gym.
 
 The book focussed on only 2 exercises:
 
@@ -98,7 +99,7 @@ The book also stressed the 'greasing the groove' approach, which sees strength a
 - Doing intense exercises
 - Never training to failure
 
-The first translates to practicing the strength of skill by tackling an exercise you find difficult. The second means you do not push your body to the poing where you can't do any more exercises after.
+The first translates to practicing the skill of strength by tackling an exercise you find difficult. The second means you do not push your body to the poing where you can't do any more exercises after.
 
 In practice the recommendations came down to doing pistol squats and one hand/leg pushups throughout the day, getting your total count up as high as you can without ever exhausting your muscles.
 
@@ -108,7 +109,7 @@ The journey to reaching the point where I am now took a while. For the one hande
 
 The nice and yet odd element of this approach is that you will be doing pushups in the strangest places. I made it a routine to do some one handed pushups in the bathroom before I washed my hands for example.
 
-The pistol squat was even harder for me. Not just because it takes a lot of strength, but also because it requires balance and flexibility. For me specifically the achilles and calf were so tight that I would fall backward whenever I attempter a pistol squat. I worked my way up by:
+The pistol squat was even harder for me. Not just because it takes a lot of strength, but also because it requires balance and flexibility. For me specifically the achilles and calf were so tight that I would fall backward whenever I attempted a pistol squat. I worked my way up by:
 
 - Stretching the achilles
 - Holding some weight in my hands for balance
