@@ -77,4 +77,4 @@ In the beginning the whole thing was pure torture. Every 45 minute workout had m
 
 Another few weeks passed without progress. Then seemingly out of the blue I had no issue whatsoever bringing my face to my knee with a straight leg. Time progressed and before I knew it I had been training for a good 6 months and my body felt like it never had.
 
-After the first few intense months I modified the workout into a short daily session I do to maintain my body's mobility. I was never since had any significant back pain and people compliment me on 'being such a flexible person' and complimenting me on my 'yoga workouts'.
+After the first few intense months I modified the workout into a short daily session I do to maintain my body's mobility. I have never since had any significant back pain and people compliment me on 'being such a flexible person' and complimenting me on my 'yoga workouts'.
