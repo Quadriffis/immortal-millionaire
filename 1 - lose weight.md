@@ -14,6 +14,12 @@ Proposed infographic:
 
 ## Tools
 
+**General advice**
+
+- Do not keep food in the house that is not whitelisted
+- Prepare your meals in advance if you can
+- Eat before shopping for food
+
 **Suggested food whitelist**
 
 | What stuff | How much | Notes |
@@ -22,7 +28,7 @@ Proposed infographic:
 | Meat & fish | Normal portions | Prefer lean, but fatty is fine. |
 | Fermented dairy | Normal portions | E.g. Yoghurt, cheeze. Only unsweetened. |
 | Fruit | Very limited intake | Consider fruit candy. It's satiety effect is very short. |
-| Nuts | Very limited intake | While low GI, 100g macadamia nuts is 700 kCal. Equivalent to 4.5kg cucumber. |
+| Nuts | Very limited intake | While low glycemic index, 100g macadamia nuts is 700 kCal. Equivalent to 4.5kg cucumber. |
 | Can I eat... | Zero | If you need to ask, then you don't eat it. No 'superfood grains' or 'sugar free' snacks. Simplicity. |
 
 **Sugested meal types**
@@ -36,7 +42,7 @@ Proposed infographic:
 
 **Suggested routines**
 
-| Trigger | Action | Notes |
+| When | Action | Notes |
 | ----------- | ------ | ----- |
 | Waking up | 30 grams of protein within 30 mins | 5 eggs or 1 big protein shake. |
 | Waking up | 500ml (1 big cups) water | Cold water preferred. |
@@ -91,9 +97,9 @@ The average BMR can be estimated with this calculation:
 - Women BMR = 655 + (9.6 x weight in kilos) + (1.8 x height in cm) - (4.7 x age in years)
 - Men BMR = 66 + (13.7 x weight in kilos) + (5 x height in cm) - (6.8 x age in years)
 
-> For a 26 year old male of 183cm weighing 78 kilos that means a BMR of 66 + (13.7*80) + (5*170) + (6.8*26) = **2188 kCal a day**.
+> For a 26 year old male of 183cm weighing 78 kilos that means a BMR of 66 + (13.7 x 78) + (5 x 183) + (6.8 x 26) = **2226 kCal a day**.
 
-This same male would burn about **250 kCal** for a half hour of aerobic sports.
+This same male would burn about **250 kCal** for a half hour of aerobic sports (e.g. running).
 
 In other words, to use the amount of calories he burns by going about his day is equivalent of 9 half hour sports sessions.
 
@@ -101,7 +107,7 @@ If you want to do sports, good. But don't do it to lose weight. Change your food
 
 ### Satiety index
 
-Your body does not feel full based on the calories you eat. The satiety system responds to different factors, ranging from stomach fullness to lipids in your digestive system.
+Your body does not feel full based on the calories you eat. The satiety system responds to different factors, ranging from stomach fullness to lipids in your digestive system and the correcponding hormonal response.
 
 Some rules of thumb
 
@@ -110,13 +116,13 @@ Some rules of thumb
 | Protein | Fat (ish) |
 | Fiber | Sugars |
 
-Fat is an interesting one. It does trigger the satiety response, but the effect is **delayed**. Basically it fill you, but only after half an hour or so.
+Fat is an interesting one. It does trigger the satiety response, but the effect is **delayed**. Basically it will fill you, but only after half an hour or so.
 
 An interesting technique based on the satiety system is taking 30 grams of protein within 30 minutes of waking. It suppresses apetite for a good amount of time.
 
 ### Glycemic index
 
-Your body transforms all carbohydrates into sugar. This is why all carbohydrates increase your blood sugar levels, but fats do not.
+Your body transforms all carbohydrates into sugar. This is why all carbohydrates increase your blood sugar levels, but fats and proteins do not.
 
 Depending on the carbohydrate type and it's packaging your blood sugar will spike to different degrees.
 
@@ -140,7 +146,7 @@ Rules of thumb to identify high GI foods:
 
 When losing weight you want to rely on your willpower as little as possible. Every time you have to make a decision on the spot there is a chance you will make a bad decision.
 
-Therefore, don't choose the foods you will syat away from. Rather choose the only foods you will eat.
+Therefore, don't choose the foods you will stay away from. Rather choose the only foods you will eat.
 
 Instead of blacklisting:
 
@@ -165,7 +171,7 @@ Popular options:
 | Betting pool | Set a goal with friends, put money into a pot (enough to hurt, not enough to be impractical) first to reach the goal gets the money, rest loses. |
 | Punishment | Give a friend/service money. If you don't reach the goal, they donate it to a charity/cause you hate. (e.g. the kkk) |
 
-**Formulate the cost of failure**
+**Formulate the cost of failure & gain of winning**
 
 Inspiration is fickle and temporary. You can keep it alive by continuously reminding yourself of the cost of failure and the profit of winning. It pays to formulate your cost/benefit reasons.
 
@@ -198,7 +204,7 @@ For those who like numbers, calorie counting is a great option. To be effective:
 1. Set a calorie goal
 2. Measure your intake
 
-For the people who like accuracy, get an app that had accurate calorie counts for foods, there are plenty of free and good ones. A kitchen scale is your friend. 
+For the people who like accuracy, get an app that had accurate calorie counts for foods. A kitchen scale is your friend. 
 
 Rules of thumb:
 
@@ -219,9 +225,9 @@ The above is stupidly oversimplified. But *measuring something always beats meas
 
 It all started as a bet with my mother. At the time I was in highschool and intensively practiced trampolining. Think gymnastics, only on trampolines (it's an olympic sport I kid you not).
 
-While I was running on a teenager metabolism training 5 times a week, my body did not so much say 'jock' as it did 'meh'. My mom commented on this as some point, which led me to confidently proclaim "I bet you I can get ripped within 4 weeks". And so it began.
+While I was running on a teenager metabolism training 5 times a week, my body did not so much say 'jock' as it did 'meh'. My mom commented on this at some point, which led me to confidently proclaim "I bet you I can get ripped within 4 weeks". And so it began.
 
-You see, at this point I did not know biology the way I did now. I mostly grabbed things my brain rewarded me serotonin and dopamine with:
+You see, at this point I did not know biology the way I do now. I mostly grabbed things my brain rewarded me serotonin and dopamine with:
 
 - Energy drinks (4 cans mid day? sure)
 - Cookies (google 'roze koek' for dutch delicacy)
@@ -245,7 +251,7 @@ Note that at this point the whole paleo diet was not well known at all. The pale
 - No legumes (sure)
 - No grains (?)
 - Meat is good (oh god yes)
-- No dairy (Wat. No. I'm Dutch)
+- No dairy (What. No. I'm Dutch)
 
 Understand that the Dutch diet looks very much like the opposite of the above. Breakfast is bread with chocolate sprinkles[^Google hagelslag] with a glass of milk. Lunch is bread with cheese and a glass of milk. Dinner is potato with meat and some vegetables[^Google boerenkool or hutspot].
 
