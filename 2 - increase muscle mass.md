@@ -17,9 +17,9 @@ Proposed infographic:
 
 ## Tools
 
-**Suggested exercises**[^There are many other great approaches, for example with kettlebells. The same principle applies: train till (near) exhaustion of muscles.]
+**Suggested exercises** [^There are many other great approaches, for example with kettlebells. The same principle applies: train till (near) exhaustion of muscles.]
 
-What matters here is exhausting your muscles with short and intense exercise. For most people talking to a personal trainer at a gym is the best idea (often a single consult is free).
+What matters here is exhausting your muscles with short and intense exercise. For most people talking to a personal trainer at a gym is the best idea (often a single consult is free). There are many good and bad trainers out there, if you think your trainer doesn't suit you, change to a different one.
 
 | Exercise | Target |
 | -------- | ------ |
@@ -31,7 +31,7 @@ What matters here is exhausting your muscles with short and intense exercise. Fo
 
 | Factor | Recommendation |
 | ------ | -------------- |
-| Calories | Calculate your BMR. |
+| Calories | Calculate your BMR, add calories you expend in exercise (unless you are aiming for weight loss). |
 | Protein intake | Minimum 1.4 times lean body mass. This is most important. |
 | Protein type | High DIAAS score. This is important. |
 | Protein timing | Regular if possible, max 40 grams per consumption. This is not high priority. |
@@ -79,7 +79,10 @@ In general it pays off to do exercises that train multiple muscles at the same t
 
 For muscle growth an important factor is exhaustion. The more you work you muscles to the 'I can not do this any longer' point the more you're triggering the signal to grow. There is some nuance in this as overtraining is counterproductive. This mostly pertains workout frequency rather than workout intensity though.
 
-Safely is of prime importance. If you do an exercise irresponsibly you will in the best case prevent yourself from working out for a while, and in the worst case cause permanent injury.
+Safely is of prime importance. If you do an exercise irresponsibly you will in the best case prevent yourself from working out for a while, and in the worst case cause permanent injury. Keep in mind that:
+
+1. Technique comes first
+2. Weight and muscle failure come second
 
 To compile your workout the easiest is usually to ask a personal trainer at your gym to help you out. Often you will as you go along learn more and more about fitness and begin to tweak your workout as you go along. There are some recommendations to get you started in the template section.
 
@@ -91,22 +94,24 @@ A guideline often used is the 5x5. In essence:
 
 - Find a weight where you can do 2 sets of 5 well
 - Do 5 sets of 5 reps
-- The last 2 sets or so you should just not be able to make 5
+- The last 2 sets or so you should just not be able to make 5 (remember, technique comes first!)
 
 The moment you can do 5 sets of 5 reps, up your weight.
+
+Note that this is just one of the many approaches you can take, many of which will get you results. The important thing to note is that hypertrophy is mostly a volume game. More repetitions with more weight means more results. One example of a popular (and effective) philosophy is to not use 5x5 but sets with more repetitions (8-12).
 
 ### Supply relevant nutrients
 
 The second factor is feeding your body the building blocks it needs to grow muscle. In simple terms: proteins. There is a lot of nuance there to do with bioavailability and amino acid makeup, but in essence it comes down to those two questions.
 
-Muscles are primarily composed muscle fibers, which are protein structures. When your body is triggered to generate more muscle my exercise, it also needs to get nutrients to work with.
+Muscles are primarily composed of muscle fibers, which are protein structures. When your body is triggered to generate more muscle by exercise, it also needs to get nutrients to work with.
 
 There are two classifications of protein intake that matter when building muscle:
 
 1. Timed protein consumption (less important)
 2. Total protein consumption (more important)
 
-Body builders tend to fixate on eating protein before, durng and after a workout. The idea is that exercise causes the body to become catabolic (breaking down muscle) and it needs protein to turn anabolic (building muscle) again.
+Body builders tend to fixate on eating protein before, during and after a workout. The idea is that exercise causes the body to become catabolic (breaking down muscle) and it needs protein to turn anabolic (building muscle) again.
 
 > From research on exercising while fasting we know that there is little to no loss of muscle when eating nothing for hours before, during and after a workout.
 
@@ -114,7 +119,7 @@ Additionally many try to eat meals every 2-3 hours to 'supply a constant stream 
 
 > Eating protein every 3 hours is only marginally better than only once or twice a day.
 
-If you want to be a full-time body builder, go ahead and eat meals every few others. If you are a regular human gaining muscle, don't worry too much about meal timing. Rules of thumb:
+If you want to be a full-time body builder, go ahead and eat meals every few hours. If you are a regular human gaining muscle, don't worry too much about meal timing. Rules of thumb:
 
 - Eating some protein after a workout is good, but not doing it is no issue
 - Eating protein every few hours only is marginally better for muscle growth
@@ -122,7 +127,7 @@ If you want to be a full-time body builder, go ahead and eat meals every few oth
 
 ### Choosing your protein intake
 
-There are two factors in determining your dietary makeup:
+There are two factors in determining your dietary makeup for the sake of muscle development:
 
 - Caloric intake
 - Protein intake
@@ -146,9 +151,11 @@ The above is a rule of thumb. Keep in mind that:
 - Protein counts as calories, protein shakes too
 - Eating protein without exercise will not make your muscles grow
 
+Note that these 2 factors do not describe a healthy diet. That would include choosing the right amount and type of carbphydrates and fats as well. If you would like to incorporate general health guidelines, read the guidelines in the weight loss section.
+
 ### Protein quality
 
-Not all protein is created equal. Specifically what matters is the ratio of amino acids and their bioavailability of the source. The currently used method to rate proteins is the *Digestible Indispensable Amino Acid Score* or DIAAS. It taked into account:
+Not all protein is created equal. Specifically what matters is the ratio of amino acids and their bioavailability of the source. The currently used method to rate proteins is the *Digestible Indispensable Amino Acid Score* or DIAAS. It takes into account:
 
 - The amino acid needs of a human
 - The degree to which a protein is absorbed by humans
@@ -161,7 +168,7 @@ This doesn't mean that plant proteins don't help muscle growth. It does mean tha
 
 There is a lot of untrue common sense out there. In the fitness world it is often referred to as 'broscience'. While it usually doesn't cause any explicit harm, it often tells people to do silly things.
 
-There is no limit to the amount of protein the body can consume in one meal, so no it's not 40 grams. This mantra stems from a misinterpretation of a study that found that 20-40 grams of protein was the most optimal per-meal consumption amount to stimulate muscle growth.
+For example there is no limit to the amount of protein the body can consume in one meal, so no it's not 40 grams. This mantra stems from a misinterpretation of a study that found that 20-40 grams of protein was the most optimal per-meal consumption amount to stimulate muscle growth.
 
 Later studies have found that the body is perfectly capable of absorbing far above 40 grams in one meal. An extreme example is that people who eat one meal a day absorb the protein from their huge meals just fine.
 
@@ -220,7 +227,7 @@ Many of the things written by them were the precursors for my current views on f
 
 - Eat enough but not excessive protein
 - Train your muscles until failure
-- Use compound exercises that train may muscles at once
+- Use compound exercises that train many muscles at once
 
 Based on these principles I began to experiment on my own body, and thus developed my favorite blend of exercise. For me that meant that my goals developed and changed, I wanted:
 
@@ -228,17 +235,17 @@ Based on these principles I began to experiment on my own body, and thus develop
 2. Portability
 3. Strength & mobility
 
-After a while I can to the conclusion I have no desire to be a muscle monster. I want to be strong and have well defined muscles. I want to be able to move heavy things, make high jumps and move fluidly.
+After a while I came to the conclusion that I have no desire to be a muscle monster. I want to be strong and have well defined muscles. I want to be able to move heavy things, make high jumps and move fluidly.
 
 What this has ended up in is a combination of Pavel's teachings and that of Coach Sommer[^Full name Christopher Sommer] (who we'll discuss later).
 
-I do only 5-10 minutes or so of exercise a day, consisting out of:
+I do only 10-20 minutes or so of exercise a day, consisting out of:
 
 - 15 one handed and one legged pushups per arm
 - 15 pistol squats per leg
 - 15 press handstands
 
-All required a lot of training in strength and balance, but once I got there doing an intense set of both keeps me in good physical shape.
+All required a lot of training in strength and balance, but once I got there doing an intense set of the above keeps me in good physical shape.
 
 That said I can't stress enough how important food is for muscle growth and general body composition. I have gone through periods of zero exercise (shame on me) where my body composition barely changed due to food choice and fasting practices.
 
