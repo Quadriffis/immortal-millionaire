@@ -30,7 +30,7 @@ Proposed infographics:
 | €1000 | 30 | €360,000 | €699,940 |
 | €1000 | 40 | €480,000 | €1,185,918 |
 
-**The danger of compound fees (30 years, 7% returnz)**
+**The danger of compound fees (30 years, 7% returns)**
 
 | Invested | Fee | Outcome |
 | -------- | --- | ------- |
@@ -116,13 +116,13 @@ They have a huge impact. My provider charges me a yearly fee of 0.15% for exampl
 | €100,000 | 2%  | €432,194 |
 | €100,000 | 3%  | €324,340 |
 
-The difference between a fee of 1% and 3% is **over €100,000**! Take your time to find a good provider that charges low fees. it will pay off massively in the long term.
+The difference between a fee of 1% and 3% is **over €250,000**! Take your time to find a good provider that charges low fees. it will pay off massively in the long term.
 
 ### How to actually do it
 
 #### 1: Decide on a strategy and stick to it
 
-Humans are not good at managing emotions when it comes to money. Since the stock market it bound to go up and down, you need to make sure you buffer against making bad decisions.
+Humans are not good at managing emotions when it comes to money. Since the stock market is bound to go up and down, you need to make sure you buffer against making bad decisions.
 
 If for example there is a downturn in the financial market, you should not allow yourself to even consider selling any of your investments. Not if you set up a good diversified strategy.
 
@@ -140,7 +140,7 @@ Make sure to have your investment platform decuct monthly chunks of money into y
 
 ### Balancing your risk
 
-The first step is to find a low cost provider of investment assets. Specifically we are looking for parties offering index funds and ETFs[^Basically these are slices of assets] of index funds.
+The first step is to find a low cost provider of investment assets. Specifically we are looking for parties offering index funds and ETFs (which are basically slices of assets) of index funds.
 
 We are looking for 2 things:
 
@@ -155,7 +155,7 @@ The rule of thumb often used is:
 
 In other words a 23 year old would invest 23% of his/her money into a bond index fund and 77% into a stock market index fund. If you have a higher tolerance for risk you can decide to alter this ratio.
 
-Make sure to rebalance your portfolio on a yearly basis. Meaning that if your stocks to very well and are now 90% of your portfolio, move some over into bonds to get back to the original ratio. Many investment platforms offer automated services for this.
+Make sure to rebalance your portfolio on a yearly basis. Meaning that if your stocks do very well and are now 90% of your portfolio, move some over into bonds to get back to the original ratio. Many investment platforms offer automated services for this.
 
 #### Rules of thumb for trust
 
@@ -190,9 +190,9 @@ In the following years I started looking at the game of money in more detail. So
 - Achieved what I wanted to achieve had simple advice
 - Wanted to sell me their financial products said investing is complicated
 
-After reading a number of books I was sold on stock and bond index funds. I had read about a company called vanguard the offered products structured in a fair way and was determined to get started with them. I did what I thought made sense:  I called my bank to ask about the posibility to buy vanguard ETFs.
+After reading a number of books I was sold on stock and bond index funds. I had read about a company called vanguard that offered products structured in a fair way and was determined to get started with them. I did what I thought made sense:  I called my bank to ask about the posibility to buy vanguard ETFs.
 
-The result was depressing. I was treated like an annoyance. As a twentysomething year old wanting to invest I had a few thousand euros saved to invest, which was a lot of money for me. The phone call went along the lines of this:
+The result was depressing. I was treated like an annoyance. As a twentysomething year old wanting to invest I had a few thousand euros available, which was a lot of money for me. The phone call went along the lines of this:
 
 - Bank: "Hello this is Bank"
 - Me: "Hello, this is your customer Mentor. I would like to invest in vanguard ETFs but can't seem to find the way to do this on your website."
@@ -210,10 +210,10 @@ The result was depressing. I was treated like an annoyance. As a twentysomething
 
 I was so utterly disappointed. Was this the kind of person I would have to deal with if I wanted to grow my wealth? Was the banking sector filled with dead-eyed snobbish 'advisors' that would not give me the light of day until I was a millionaire?
 
-The day was still young, do I resolved to give the vanguard corporation itself a call. Turns out they have an Amsterdam office. I expected to be taking to a receptionist who would connect me to an even worse banker. After all, this was the company behind the assets my bank would trade for me.
+The day was still young, so I resolved to give the vanguard corporation itself a call. Turns out they have an Amsterdam office. I expected to be talking to a receptionist who would connect me to an even worse banker. After all, this was the company behind the assets my bank would trade for me.
 
 - Vanguard: "Hello this is X from vanguard"
-- Me: "Hello, my name is Mentor. I a looking to start a portfolio and have read many recommendations for vanguard."
+- Me: "Hello, my name is Mentor. I am looking to start a portfolio and have read many recommendations for vanguard."
 - Vanguard: "That is good to hear! It's always exciting when a person decides to start investing"
 - Me: Confused. Is that enthusiasm? "So can I open an account with you directly?"
 - Vanguard: "Ah sir, I'm afraid we don't do dealings with consumers directly in the Netherlands. We only do that in the US."
@@ -232,10 +232,10 @@ I was astonished. This person just took 45 minutes out of his day to help a youn
 
 That day I learned that there are kind and helpful people who are trying to do good in the banking industry. Sure, there are arrogant numbskulls who I imagine live up to the stereotypes the occupy movement put forth. But when I looked around, I found people doing their best to subvert the system to benefit regular people with regular incomes.
 
-The helpful new companies did everything the advice I had gotten in the past years tole me to do:
+The helpful new companies did everything the advice I had gotten in the past years told me to do:
 
 - Use low cost index funds that reinvest dividends
 - Have low transaction fees
 - Automate the whole investment portfolio
 
-The months following I set up and automated portfolio and let my broker automatically deduct monet from my account on a monthly basis. Of course those transactions go into my budget as "present for future Mentor".
+The months following I set up an automated portfolio and let my broker automatically deduct monet from my account on a monthly basis. Of course those transactions go into my budget as "present for future Mentor".
