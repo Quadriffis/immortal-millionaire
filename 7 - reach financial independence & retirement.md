@@ -49,7 +49,7 @@ For most people retiring on a money tree is feasible, especially if you start ea
 
 ## Calculating the size
 
-There are three money amounts we will calculate what you need to reach:
+There are three money amounts we will calculate that you need in order to reach:
 
 1. Survive - meet your basic needs
 2. Thrive - allow you to spend on fun
@@ -112,7 +112,7 @@ Survival (1095) plus fun (735) equals €1830. This equals a yearly (12 months) 
 
 Note that this number will vary greatly per person and location. Many big city Americans will marvel at the low rent/healthcare/food costs while rural Italians will scoff at these exorbitant numbers.
 
-There are no wrong answers. This is is about how you personally want to live yout life.
+There are no wrong answers. This is is about how you personally want to live your life.
 
 ### Freedom: the dreams
 
@@ -132,7 +132,7 @@ An example calculation:
 | Dream | Yearly cost |
 | ----- | ----------- |
 | Spending winter in Spain | 6000[^3 months of €2000 gets you a sweet time in Spain. Lower cost places like Thailand will be even more extreme.] |
-| Weekly massages | 5200[^100 times 52 weeks] |
+| More massages | 5200[^100 times 52 weeks] |
 | City trip every month | 4500[^500 per trip times 9 months (since we are in Spain in winter)] |
 | Fun shopping | 12000[^1000 a month seems good to me, maybe you like it higher or lower] |
 | **Total** | **€27,700** |
@@ -146,6 +146,8 @@ There is a well established rule in investing that a balanced portfolio can over
 There are many news outlets that will gladly proclaim that the 4% number is wrong because the study is from 1994 where interest rates were higher. These sensationalist non-experts lack long term historical perspective. In fact the original researcher recently crunched the numbers based on recent market data and in his own words:
 
 > The "4% rule" is actually the "4.5% rule"- I modified it some years ago on the basis of new research. The 4.5% is the percentage you could "safely" withdraw from a tax-advantaged portfolio (like an IRA, Roth IRA, or 401(k)) the first year of retirement, with the expectation you would live for 30 years in retirement. After the first year, you "throw away" the 4.5% rule and just increase the dollar amount of your withdrawals each year by the prior year's inflation rate. [^See this wonderful 'Ask me Anything' on reddit: https://www.reddit.com/r/financialindependence/comments/6vazih/im_bill_bengen_and_i_first_proposed_the_4_safe/]
+
+Note for non US citizens: the IRA/401(k) stuff mentioned above is how the US allows its citizens to invest money for their own pensions. Most other countries do not work like this. In the Netherlands for example I can only open a regular investment account and get no tax benefits for saving for retirement.
 
 Of course there are posibilities that a black swan event occurs and everything we thought we knew about money goes out the window. This chance is however quite low and leaves us with no strategy to plan.
 
@@ -163,7 +165,7 @@ A little math trick: to get your money tree size based on 4% take your yearly in
 
 ### Money forever?
 
-But won't your money run out as some point? Not if the 4% rule leeps going. Take the (simplified) example of €13,140. If your money has an average return of 4%, then every year the tree grows by €328,500 * 4% = €13,140. Which means that when you take €13,140 a year, you are always left with the original €328,500.
+But won't your money run out as some point? Not if the 4% rule remains reliable. Take the (simplified) example of €13,140. If your money has an average return of 4%, then every year the tree grows by €328,500 * 4% = €13,140. Which means that when you take €13,140 a year, you are always left with the original €328,500.
 
 But can this really work? Well **the best information we have says yes**.
 
@@ -185,7 +187,7 @@ How do we make sure we get a 4% return while current[^As of 2017] interest rates
 
 When I was a little boy I once asked my mother how much money a person needs to never have to work again. We were driving in my hometown at the time so she was focussed on the road. She casually said that she thought she could live a confortable life on a million guilders (the currency we had before the euro).
 
-At the time I had no conception of how the monetary system works. I had heard banking commercials proclaim "geld moet rollen" (money must roll) and "in het verleden behaalde resultaten boeden geen garantie voor de toekomst" (past results do not guarantee future prospects). As for what they meant, that would take me another decade or two.
+At the time I had no conception of how the monetary system works. I had heard banking commercials proclaim "geld moet rollen" (money must roll) and "in het verleden behaalde resultaten bieden geen garantie voor de toekomst" (past results do not guarantee future prospects). As for what they meant, that would take me another decade or two.
 
 The first time I was really confronted with a big savings goal was when I decided I wanted to go to China after highschool to do kung fu in the mountains for a couple of months. My parents supported the idea and promised to finance a part of the trip. It left me to save about two thousand euros in a year. It seemed like infinite money at the time. I worked as a gymnastics teacher after school, and often cleaned houses after those training sessions.
 
@@ -197,18 +199,18 @@ The lessons learned in highschool carried over to my university years. I always 
 - A special ops / heart surgeon speech
 - A man drawing graphs on a wall
 
-All of them happened when I was attending a programme called Draper University in 2013. I had met the program founder Tim Draper in New York earlier that year. I had no idea who he was at the time. We were having a conversation sitting around a table about the future of 3D printing and what you could do with it. Tim (tall man, superhero tie, big grin) went on to suggest personalised sex toys would be a teriffic idea. He later proceeded to tell some of us at the table to apply for his sumer program.
+All of them happened when I was attending a programme called Draper University in 2013. I had met the program founder Tim Draper in New York earlier that year. I had no idea who he was at the time. We were having a conversation sitting around a table about the future of 3D printing and what you could do with it. Tim (tall man, superhero tie, big grin) went on to suggest that personalised sex toys would be a teriffic idea. He later proceeded to tell some of us at the table to apply for his summer program.
 
 Only later did I learn this particular Tim was one of the founders of the venture capital firm DFJ. As the son of the first venture capitalist he was a bit of a legend in silicon valley. I just knew him as the sex toy guy in my head. When I entered the DU summer program I learned Tim was acquainted with the founder of Jimmyjane, a high end sex toy producer. Suddenly his suggestion made a lot more sense.
 
 While Tim didn't give us investment advice per se, he was a big fan of bitcoin. At the time it was worth about $80 per btc. At the time of writing this it is more like $8000, though it may spike up or downward anytime. His enthusiasm triggered my curiosity and the following months were a bitcoin rollercoaster for me. In the bitcoin world I learned the meaning of:
 
 - Initial Public Offerings (a platform called havelock investments was hosting a bitcoin company only stock market)
-- Buy high, sell low as a principle (and failing at implementing it)
+- Buy low, sell high as a principle (and failing at implementing it)
 - The pain of loving 60% of your wealth within 24 hours
 - The value of hodling (not a misspelling)
 
-The months after my DU experience I poured all the money I could into bitcoin. I was riding the wave of crypto hype. I started buying bitcoin at a price of $100 and kept on accumulating until the peak that year of over $1000. Meanwhile those bitcoins were invested in companies that promised ever more bitcoins. Mining companies, bitcoin banks, hardeard manufacturers, you name it. I learned to read IPO prospectus papers, valuation graphs, candle sticks and so on. My experience went like this:
+The months after my DU experience I poured all the money I could into bitcoin. I was riding the wave of crypto hype. I started buying bitcoin at a price of $100 and kept on accumulating until the peak that year of over $1000. Meanwhile those bitcoins were invested in companies that promised ever more bitcoins. Mining companies, bitcoin banks, hardware manufacturers, you name it. I learned to read IPO prospectus papers, valuation graphs, candle sticks and so on. My experience went like this:
 
 - Month 1: buying stocks
 - Month 2: OMG I have double money!
@@ -218,7 +220,7 @@ The months after my DU experience I poured all the money I could into bitcoin. I
 
 You see, I went through a full market cycle and education within the span of a year. The beginning months were a total party. It is what wall street traders in a bull market must feel like. Every stock you pick wins (yay look at how smart you are) and your money grows every single day. Sushi ordered in using bitcoin became very commonplace. My study debt was as good as paid off in my mind.
 
-Then the bubble burst. The mining company I invested in bought old hardware causing the stock to crash, the valua of bitcoin dropped, controversy ensued worldwide due to money laundering allegations, etc. etc...
+Then the bubble burst. The mining company I invested in bought old hardware causing the stock to crash, the value of bitcoin dropped, controversy ensued worldwide due to money laundering allegations, etc. etc...
 
 The year after was spent coming to terms with the emotional aspect of investments. I came out on the other side with some solid principles:
 
@@ -231,7 +233,7 @@ A number of 'basic' principles I later learned were common advice in the regular
 - Buy low, sell high. When the market is exuberant sell, buy in times of crisis
 - Buy things you believe in and hold them (related to the value investing approach)
 
-When all these lessons settled in the final thing I did before deciding to not track the bitcoin world daily was invest in a group of people who promised a thing called Ethereum. A few years of patience was rewarded with a triple digit ROI factor.
+When all these lessons settled in the final thing I did before deciding to not track the bitcoin world daily was invest in a group of people who promised a thing called Ethereum. A few years of patience was rewarded with a triple digit return on investment factor.
 
 Througout these months I did not reflect on two other pieces of advice I got while in the US. They were very similar suggestions from a guy who everyone called 'doc' and the financial planner of Tim Draper. In short they said to:
 
@@ -244,8 +246,8 @@ A few years later I read a book called "Money: Master the Game" by Tony Robbins.
 
 - Calculated the money I needed to retire
 - Opened an investment account
-- Set up automated monetly payments to said account
+- Set up automated monthly payments to said account
 
 I have since read more and more about investing on a long time horizon, and can only conclude that consistent periodic investment in world index funds is the way to go for the vast majority of people.
 
-I know my own nature though and protect my long term financial health my having a smaller amount of money set aside for risky investments I do for fun.
+I know my own nature though and protect my long term financial health by having a smaller amount of money set aside for risky investments I do for fun.
