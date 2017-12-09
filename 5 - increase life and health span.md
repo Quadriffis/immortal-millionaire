@@ -5,7 +5,7 @@ Proposed infographics:
 - Show people eating vegetables, working out and sleeping well
 - Show a puppet at the doctor getting their blood checked and then buying bottles of supplements to fix their deficiencies (or changing diet, or both)
 - Show a calendar with a nurse icon every 6 months
-- Show comics of a person in the sauna, in ice water and fasting (empty plate)
+- Show comics of a per son in the sauna, in ice water and fasting (empty plate)
 
 Life span: duration of life.
 Health span: years of health.
@@ -196,11 +196,11 @@ The body usually relies on a glycolytic pathway for energy. In other words, we u
 
 For many people this is the reason they feel low when they have not eaten (low blood sugar) or when they have just eated (blood sugar spike followed by insulin spike).
 
-There is an alternative energy mechanism called ketosis. In this state the body does not break down carbohydrates but rather fats. Instead of using blood sugar for primary energy delvery, the body uses ketones.
+There is an alternative energy mechanism called ketosis. In this state the body does not break down carbohydrates but rather fats. Instead of using blood sugar for primary energy delivery, the body uses ketones.
 
-Being in ketosis has a host of health benefits. The list is very similar to fasting. Indeed a great deal of the benefits of fasting stem from the fast that fasting helps trigger ketosis.
+Being in ketosis has a host of health benefits. The list is very similar to fasting. Indeed a great deal of the benefits of fasting stem from the fact that fasting helps trigger ketosis.
 
-Entering a ketotic state is done by depriving the body of carbohydtates. A ketogenic diet is often 80%+ fats. Longer fasts result in ketosis, and thus supply benefits similar to the ketogenic diet.
+Entering a ketotic state is done by depriving the body of carbohydrates. A ketogenic diet is often 80%+ fats. Longer fasts result in ketosis, and thus supply benefits similar to the ketogenic diet.
 
 #### Time restricted feeding
 
@@ -215,7 +215,7 @@ There as strong indications that eating within a window that falls in the waking
 
 ## Intermittent fasting
 
-It takes the body a while to enter recovery mode once you start fasting. When you eat something during a fasted state the countdown timer starts anew.
+It takes the body a while to enter recovery mode once you start fasting. When you eat something during a fasted state the countdown timer starts anew. In other words, if you have a juice after fasting for 5 hours, your fast is now broken and you have now fasted for 0 hours.
 
 One aproach to implementing fasting into your life is intermittent fasting. Popular approaches include:
 
@@ -267,6 +267,8 @@ Some values are useful simly to have a baseline of your usual values, these incl
 - Lipid panel (cholesterol etc)
 - Certain hormones
 
+Depending on your location and environment it may pay off to do tests for things like heavy metals.
+
 Note that not all values have immediate value. Cholesterol values for example are not all that useful for many young people. Having some baseline readings however can be valuable in future scenarios.
 
 ### Common deficiencies & supplements
@@ -283,7 +285,7 @@ Don't blindly take supplements:
 
 #### Vitamin D
 
-Vitamin d is a steroid hormone. That is to say that this substance has the ability to reach the cell nucleus (where the DNA is kept) and unfluence what genes are expressed. In other words: vitamin d changes what part of your DNA is on and off.
+Vitamin d is a steroid hormone. That is to say that this substance has the ability to reach the cell nucleus (where the DNA is kept) and influence what genes are expressed. In other words: vitamin d changes what part of your DNA is on and off.
 
 Humans have two main sources of vitamin d:
 
@@ -311,7 +313,7 @@ The effects of low vitamin d can be manifold (remember, it affects DNA expressio
 
 This mineral is used in a large amount of functions ranging from the immune system to the brain. It's used ny 300+ enzymes and without it our primary ATP based cellular energy system would not function. 
 
-There are no international population wide statistics on magnesium levels in the blood, but depending on what study you look at as many as 60% to 80% of people care deficient in magnesium.
+There are no international population wide statistics on magnesium levels in the blood, but depending on what study you look at as many as 60% to 80% of people are deficient in magnesium.
 
 There are a number of issues for many people:
 
@@ -357,7 +359,7 @@ While preventing damage by means of sunscreen is good advice, is doesn't help yo
 
 > Note that sun exposure is positive for many health factors, the downside to the positive effects is skin aging.
 
-Intuitively it makes sense that if a certain structure in the body breaks down (collagen) you can stimulate growth by consuming more building blocks (in the form of said collagen). While the body it very cabable of conctructing collagen from other protein sources, consuming collagen as such seems to have positive effects on skin elasticity.
+Intuitively it makes sense that if a certain structure in the body breaks down (collagen) you can stimulate growth by consuming more building blocks (in the form of said collagen). While the body is very cabable of constructing collagen from other protein sources, consuming collagen as such seems to have positive effects on skin elasticity.
 
 Studies have shown that radioactively labelled collagen (it's a harmless kind of study) can be traced to places in the body where collagen is present. A small placebo controlled study found that indeed consuming collagen increases skin elasticity after a few weeks.
 
@@ -377,7 +379,7 @@ The research on humans however is not very extensive and the availability is low
 
 #### Adaptogens
 
-The class of adaptogens is a group of supplements that balances stress and relaxation responses. In essence these compounds give energy for those who are low and provide relaxation to those who are stressed.
+The class of adaptogens is a group of supplements that balances stress and relaxation responses. In essence these compounds give energy for those who are low on it and provide relaxation to those who are stressed.
 
 This may sound conflicting, but it makes sense when viewed through the lens that adaptogens work at restoring a baseline. Instead of a substance that per definition causes a dose-dependent effect in a predicatble direction (e.g. alcohol) they restore balance to functions that are out of whack.
 
@@ -395,11 +397,17 @@ Depending on your geographcial location some are easier to find than others.
 
 Fish oil is known as a beneficial supplement in pop culture. The effects that are often tauted include their beneficial effect on the cardiovascular system and cholesterol levels. More and more research however seems to indicate that omega 3 fatty acids also have many benefits for neurological attributes like cognitive function and mood levels.
 
-For this supplement it is important to realise that fatty acids are essential for the structure and functioning of cells. In essence human cells are bags of water, willed with molecular machinery (DNA, mitochondria etc). The 'bag' that is the border of the cell basically uses lipids as an important building block. The right lipids keep the cell membrane flexible and functioning optimally. This is very important for many things, including nerve function.
+For this supplement it is important to realise that fatty acids are essential for the structure and functioning of cells. In essence human cells are bags of water, filled with molecular machinery (DNA, mitochondria etc). The 'bag' that is the border of the cell basically uses lipids as an important building block. The right lipids keep the cell membrane flexible and functioning optimally. This is very important for many things, including nerve function.
 
 On supplement bottles you will often find references to EPA and DHA. These are two forms of omega 3 fatty acids. Their structure differs and research indicates that their effect differs as well.
 
 If you plan to take fish oil on a long term basis make sure that you choose a reputable supplement that is adequately purified. The fish used to produce the oil may contain toxins like heavy metals (especially if the source fish is high up the food chain) that need to be filtered out.
+
+With regards to toxins and oil quality it pays off to look for products that:
+
+- Are produced from animals low on the food chain (e.g. herring instead of salmon)
+- Are filtered well (everybody claims this so it is harder to test)
+- Has lab tests available on their website
 
 ## How I found out
 
@@ -415,7 +423,7 @@ You see, resveratrol was at the time considered a promising life extension compo
 
 It turns out that resveratrol supplementation in humans is not all that effective since our liver metabolises it very quickly.
 
-Nonetheless my interest was piqued. Specifically the SIRT1 gene group spoke to my imagination. Specifically the idea that the human body is capable of extending it's lifespan if we take the right steps in our lifestyle.
+Nonetheless my interest was piqued. The SIRT1 gene group spoke to my imagination. Specifically the idea that the human body is capable of extending it's lifespan if we take the right steps in our lifestyle.
 
 This lead me to an interest into epigenetics, the study of how the environment influences gene expression. One important thing to understand here is that genes are not a blueprint for the human body in the way that pop-culture sometimes presents it.
 
