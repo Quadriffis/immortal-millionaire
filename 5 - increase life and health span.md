@@ -43,7 +43,7 @@ Note: For all deficiencies ask your doctor if there is a reason you would have l
 | ---------- | -------------- |
 | Vitamin D | When far from 75nmol/L or 30ng/ml[^See 'Optimal serum 25-hydroxyvitamin D levels for multiple health outcomes', https://www.ncbi.nlm.nih.gov/pubmed/25207384] supplement with at least 800IU/day[^Equals 20 micrograms] |
 | Vitamin B12 | Supplement or increase dietary intake of animal products, specifically liver and meat[^It's also found in eggs, but humans only absorb about 9%. See 'Vitamin B12 sources and bioavailability', https://www.ncbi.nlm.nih.gov/pubmed/17959839] |
-| Magnesium | Prefer citrate, chelate, glycinate over magnesium oxide[^The magnesium type is on the bottle, just look at the ingredient section] |
+| Magnesium | Prefer citrate, chelate and glycinate over magnesium oxide[^The magnesium type is on the bottle, just look at the ingredient section] |
 
 **Hormetic responses in a controlled environment:**
 
@@ -64,11 +64,12 @@ The most popular option (and most compatible with most people's lives is the 16/
 
 Other important considerations:
 
-- Most people report having the best mental focus then **fasting**.
+- Most people report having the best mental focus when **fasting**.
 - After adjusting many people report feeling sluggish when eating too early.
 - Eat the right stuff. Focus on low GI etc. See the diet section.
 - Have backup food on you. E.g. always have a box of nuts on you.
 - Be strict but reasonable. Yearly family brunches are a fine reason not to fast.
+- Biologically eating earlier in the day is adventageous due to the circadian rhythm
 
 **Template: Multi-day keto fast mimicking diet**
 
@@ -168,22 +169,22 @@ There are a number of fasting 'levels' to be aware of:
 
 | Fasting type | Effect |
 | ------------ | ------ |
-| Juice fast | This is *not* fasting. It'll rest your intestines a bit but has little metabolic effect. |
+| Juice fast/cleanse | This is *not* fasting. It'll rest your intestines a bit but has little metabolic effect. |
 | No calorie fast | Nothing with energy (caloric) content. Coffee/tea is fine, but only without sugar and milk. This is good for fasting, but might reduce some of the benefits related to elevated oxidative stress. |
 | Water fast | The most effective fast usually. Harder to use in regular life. |
 | Full fast | No water, no food. While the most pure fast the benefits compared to a water fast are not that much. |
 
 #### The benefits of fasting
 
-The average human body can live for 3 days without water and 3 weeks without food. On a bioligical level not eating for a full day is really not that extreme. Many have argued that in the human hunter/gather days is way quite common to eat a lot one day (caught an animal) and nothing the next (caught no animal).
+The average human body can live for 3 days without water and 3 weeks without food. On a bioligical level not eating for a full day is really not that extreme. Many have argued that in the human hunter/gather days it was quite common to eat a lot one day (caught an animal) and nothing the next (caught no animal).
 
 Fasting and intermittent fasting have shown a number of interesting effects on both animals and humans. Note that this is very recent research so it's all still very experimental.
 
 So far there are strong indications for:
 
-- Reduce risk for certain cancers
-- Reduce risk of mental disease
-- Increase lifespan
+- Reduced risk for certain cancers
+- Reduced risk of mental disease
+- Increased lifespan
 
 There are a lot of cellular and metabolic effects that you can read about online[^See 'The science of fasting for longevity & health', https://www.skillcollector.com/post/i-didnt-eat-for-105-hours-science-benefits/].
 
