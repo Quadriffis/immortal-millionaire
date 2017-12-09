@@ -123,7 +123,7 @@ Budgeting is not about giving you an extra chore or making your life more diffic
 
 **Automate your finances** by making sure all your bills are paid automatically. Rent and other expenses should *never* take extra overhead.
 
-**Have 3 accounts** for different purposes. One called 'center' for automated expenses (your paycheck goes here) of which the card is not in your wallet. One called 'guilt free' which is in your wallet and contains limited money for food and fun (may €200 on there per week). And one called 'savings' for stashing money.
+**Have 3 accounts** for different purposes. One called 'center' for automated expenses (your paycheck goes here) of which the card is not in your wallet. One called 'guilt free' which is in your wallet and contains limited money for food and fun (max €200 on there per week). And one called 'savings' for stashing money.
 
 **Have a guilt free category** budget fun into your life. Have a category of money you can spend without justification. Don't make it too much, but enough for smaller fun expenses.
 
@@ -135,7 +135,7 @@ My father has done a lot of projects in Croatia. For the family that meant we we
 
 Money played an important role for us children in the holidays. We each got 10 kunas a day to spend as we saw fit. In practice this meant it was icecream money. It's not that my parents didn't buy us icecream, but we didn't get to decide when they would buy us frozen deliciousness.
 
-After having breakfast we would spend the morning arguing what was the best iceccream to get:
+After having breakfast we would spend the morning arguing what was the best icecream to get:
 
 - The water based sticks were cheap so we would get 5 of them
 - The creamy icecreams were more expensive, often allowing only 1 a day
@@ -149,13 +149,13 @@ Once we got older and had our own bank accounts we no longer had the constraint 
 
 While the foundation for my current budgeting skills was laid in my childhood, it took until university to crystallise into a solid and specific budget system. University was an exercise similar to my childhood holidays. The Dutch government would give me a specific amount of money each month, and I had to survive on it.
 
-The first months I played by ear and mostly managed. I like being self sufficient, so the idea of asking my parents for food money because I failed to plan properly was horrifying. I knew they would help me, but I viscerally didn't want to need help. Truth be sold I had to ask for help anyway in the first year, which fuelled my desire to figure out my finances.
+The first months I played by ear and mostly managed. I like being self sufficient, so the idea of asking my parents for food money because I failed to plan properly was horrifying. I knew they would help me, but I viscerally didn't want to need help. Truth be told I had to ask for help anyway in the first year, which fuelled my desire to figure out my finances.
 
 A world opened for me once I started really measuring my expenditures. Using apps to track my spending meant I could at the end of the month diagnose where exactly my money went and why. Not only that, but the act of recording my spending made me think twice about whether the expense was justified.
 
 I reached my budgeting heaven when I discovered You Need A Budget. At the time it was still a standalone piece of software which I bought through the gaming platform steam. It's ironic that my favorite budgeting program was purchased during a game discount sale.
 
-Using YNAB and their structure made me feel excited to do my monthly budget. Truth be told I didn't have enough money to even use the functionality to it's fullest extent. I was supposed to save up enough money to cover the expenses for next month, what YNAB calls 'ageing your money'. I started saving towards it and expected to take 6 months to a year to get there.
+Using YNAB and their structure made me feel excited to do my monthly budget. Honestly, I didn't have enough money to even use the functionality to it's fullest extent. I was supposed to save up enough money to cover the expenses for next month, what YNAB calls 'ageing your money'. I started saving towards it and expected to take 6 months to a year to get there.
 
 YNAB really had an impact once I started working. By this time I had a good handle on my money, I knew my expenses and how to manage them in a predictable manner. Now that money actually started flowing in I started accumulating a buffer and even investment money. I was not making all that much, but because I had a good budgeting structure I grew my net worth quicker than any of my friends.
 
