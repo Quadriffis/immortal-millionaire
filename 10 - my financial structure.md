@@ -42,7 +42,7 @@ The key to this account is that the card is not in my wallet. It really never is
 Another highlight is that as much as possible of my finances on this account are automated. There is no mandatory expense I have that I need to manually pay. If I drop of the map for 2 years I will never come back to a pile of checks and repo men. This has as advantages that:
 
 - I never think about my expenses, they just happen
-- I never mis a payment
+- I never miss a payment
 - I don't feel any 'pain' paying mandatory expenses
 
 Do note that I add all expenses in my budget and review them periodically to see if I can cut any of them down or out.

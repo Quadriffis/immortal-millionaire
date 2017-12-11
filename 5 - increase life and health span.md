@@ -5,7 +5,7 @@ Proposed infographics:
 - Show people eating vegetables, working out and sleeping well
 - Show a puppet at the doctor getting their blood checked and then buying bottles of supplements to fix their deficiencies (or changing diet, or both)
 - Show a calendar with a nurse icon every 6 months
-- Show comics of a per son in the sauna, in ice water and fasting (empty plate)
+- Show comics of a person in the sauna, in ice water and fasting (empty plate)
 
 Life span: duration of life.
 Health span: years of health.
