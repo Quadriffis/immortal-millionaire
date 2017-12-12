@@ -17,6 +17,7 @@ Weight and bodyfat is not just about health, it is about emotion. Looking into t
 - What foods make you feel full (satiety index)
 - What foods are absorbed quickly/slowly (glycemic index & load)
 - Effective accountability and motivation tactics
+- How a bet with my mother got me obsessed with weight loss for a few weeks
 
 ## Tools
 

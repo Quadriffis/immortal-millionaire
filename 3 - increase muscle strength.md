@@ -13,6 +13,7 @@ Physical strength breeds a sense of mental strength, a feeling of being able to 
 - How strength training differs from muscle size training
 - Effective full body strength exercises
 - Progressions to help train towards technically difficult movements
+- How a comicbook guru's discovery channel show shaped my thoughts on strength
 
 ## Tools
 

@@ -14,6 +14,7 @@ Muscle mass like fat mass is a reflection of work and focus you put into your bo
 - How to choose your training weight
 - Dietary guidelines for muscle development
 - How to distinguish high quality from low quality protein
+- How a handful of writers made me ashamed I took 'bro-science' fitness advice
 
 ## Tools
 
