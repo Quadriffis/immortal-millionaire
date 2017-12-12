@@ -1,20 +1,39 @@
 # Develop flexibility
 
-Proposed infographics:
+Imagine the feeling of taking off a tight and constraining piece of clothing, and the freedom that comes with it. For many people their body is like a contrant constraining factor, and because they have never known anything else they think it's normal. Developing flexibility feels like taking off a suit that has had you contrained for years. The freedom of being able to move your body is a type of freedom most people have never known.
 
-- Have two comic windows, the first filled with a person 'shopping' for stretching routines and the second where they are in a gym working out (clock in the corner showing 1 hour)
-- Have a crossed out calendar that shows inprovement somehow
-- Show a window similar to the first workout one where the clock shows 30 minutes
+**Principles for flexibility**
 
-1. Choose stretching routines
-	- Treat them as normal length workouts
-	- 3x per week 1 hour is optimal
-2. Stick with them for at least 6-12 months
-3. Decrease intensity as you reach your desired flexibility (or don't and keep developing)
+1. Choose stretching routines that target many and big muscles
+1. Treat stretching as normal length workouts
+1. Stick with intense stretch workouts for at least 6-12 months
+1. Decrease intensity as you reach your desired flexibility (or don't and keep developing)
 
 ## Tools
 
-The best flexibility training schedule I've experienced is Gymnastics Strength Training (GST)[^I used https://www.gymnasticbodies.com. Specifically their fundamentals 1].
+**General advice**
+
+- Stretching should be uncomfortable, but not painful
+- Connective tissue grows and heals slowly, give it time
+- Injuries of connective tissue take a long time to heal, don't overdo intensity
+- Stretching isn't about relaxing, actively engage your muscles
+- Any stretching beats no stretching, make it a daily routine
+
+**Training programs**
+
+The best flexibility training program I've experienced is Gymnastics Strength Training (GST)[^I used https://www.gymnasticbodies.com. Specifically their fundamentals 1].
+
+**My favorite stretches**
+
+I do these stretches every day. They keep my main points of flexibility in shape but must be supplemented with more whole-body stretch workouts.
+
+- Pancake (leaning forward)
+- Pancake (body flat on leg)
+- Straddle side stretch
+- Achilles stretch (leaning on one foot)
+- Glute stretch
+- Elevated bridge
+- Knees by ears (rolled on your back)
 
 ## Why and how this works
 
