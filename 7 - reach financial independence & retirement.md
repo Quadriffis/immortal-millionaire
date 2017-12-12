@@ -1,16 +1,19 @@
 # Reach financial independence / retirement (Fi/Re)
 
-Proposed infographics
+Imagine what you would spend your energy on if you didn't have to work to survive. Imagine what you would try to create or achieve is you had a guaranteed income regardless of what work you choose (not) to do. And then open your mind to the posibility that almost everyone can achieve this with the right knowledge.
 
-- Show the house from the previous chapter but have circles in green, blue and orange based on need/nice/desire)
-- Show the number x25 (simple math vizualisation), maybe piles of coins in the background?
-- Icon visualisation: You + money + stock market graph = money + more money (the new money is colored different?)
+**Principles of financial independence**
 
 1. Calculate your desired yearly income
-	- Create an inventory of your non-optional expenses & add them together
-	- Make 3 tiers: survival, comfort & thriving
-2. Multiply by 25
-3. Budget & invest (next chapters)
+1. Invest 25 times your desired yearly income in low cost index funds
+1. Consider the posibility of lean fi/re
+
+**In this chapter**
+
+- How to calculate the yearly income you need to survive
+- Why it is safe to assume a 4% withdrawal rate on your investments
+- Why it doesn't matter how long you will live if you use the 4% rule
+- How a billionaire and his special ops friend talked me into investing
 
 ## Tools
 
