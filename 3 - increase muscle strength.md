@@ -1,12 +1,18 @@
 # Increase muscle strength
 
-- Show working out puppet with a speedometer next to it with green/orange/red sections where there is a stop arrow where the gree ends
-- Cartoon style windows where the puppet is doing exercises in different settings
+Physical strength breeds a sense of mental strength, a feeling of being able to imgact the world. Once movements that were once difficult become trivial there is a sense of effortlessness that is hard to describe.
+
+**Principles for strength development**
 
 1. Do high load exercises in low repititions
-	- Do not do exercises to muscle failure
-2. Do many repititions spaced out over the day
-	- Or if you prefer working in a gym, take breaks between sets
+2. Do not do exercises to muscle failure
+2. Do many repititions spaced out over the day (or in a gym, take breaks between sets)
+
+**In this chapter**
+
+- How strength training differs from muscle size training
+- Effective full body strength exercises
+- Progressions to help train towards technically difficult movements
 
 ## Tools
 

@@ -1,21 +1,28 @@
 # Increase muscle mass
 
-Proposed infographic:
+Muscle mass like fat mass is a reflection of work and focus you put into your body. Where a balances bodyfat percentage says you didn't make bad decisions, muscle mass says you put work into making good ones. Muscle mass is a physical expression of willpower and hard work. It is a reminder to yourself that your actions have lasting impact.
 
-- Side by side comparisson of a person who gained muscle but has fat and a person who gained no muscle but lost fat.
-- Gym infographic of a workout supervised by a professional
-- Two plates where the left is a regular meal and the right has increased protein. Maybe use breakfast to we can use eggs, dinner might imply increased meat consumption which is a stereotype I don't like.
+**Principles to increase muscle mass**
 
 1. Verify that you actually want more muscle rather than less fat
 2. Trigger muscle growth with resistance training
-	- Use the 5x5 rule to determine exercise intensity/weight
-	- Focus on technique
-	- Use free weights where possible
 3. Modify diet to suport muscle growth
-	- Protein consumption: 1.4x your lean muscle weight in grams
-	- Use the principles of the weight loss section
+
+**In this chapter**
+
+- What exercises are commonly recommended (both for men and women)
+- How to choose your training weight
+- Dietary guidelines for muscle development
+- How to distinguish high quality from low quality protein
 
 ## Tools
+
+**General advice**
+
+- Focus on good technique
+- Use free weights where possible
+- Rest is as important as training, do not overtrain
+- Use the principles of the weight loss section to control fat levels
 
 **Suggested exercises** [^There are many other great approaches, for example with kettlebells. The same principle applies: train till (near) exhaustion of muscles.]
 
