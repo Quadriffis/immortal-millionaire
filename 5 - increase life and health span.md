@@ -1,19 +1,22 @@
 # Increase life and health span
 
-Proposed infographics:
+Our experience of life is always through the lens of the body. Keeping the vessel we use to experience reality in shape is the ultimate investment. Nobody controls fate, but we can do a lot to make it as likely as possible that we can experience life fully for as long as possible.
 
-- Show people eating vegetables, working out and sleeping well
-- Show a puppet at the doctor getting their blood checked and then buying bottles of supplements to fix their deficiencies (or changing diet, or both)
-- Show a calendar with a nurse icon every 6 months
-- Show comics of a person in the sauna, in ice water and fasting (empty plate)
-
-Life span: duration of life.
-Health span: years of health.
+**Principles to increase health & lifespan**
 
 1. Take care of the basics first
 2. Compensate for deficiencies
 3. Keep an eye on your blood values
 4. Regularly trigger hormetic responses
+
+**In this chapter**
+
+- What commonly overlooked things you should start with
+- Ways to safely trigger metabolic self defense reactions
+- Different approaches to fasting for health
+- Recommended blood tests to get
+- Supplement reccomendations
+- How I started experimenting on myself based on rat research
 
 ## Tools
 

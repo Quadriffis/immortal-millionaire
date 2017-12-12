@@ -4,10 +4,16 @@ Imagine the feeling of taking off a tight and constraining piece of clothing, an
 
 **Principles for flexibility**
 
-1. Choose stretching routines that target many and big muscles
+1. Choose stretching routines that target many and large muscle groups
 1. Treat stretching as normal length workouts
 1. Stick with intense stretch workouts for at least 6-12 months
 1. Decrease intensity as you reach your desired flexibility (or don't and keep developing)
+
+**In this chapter**
+
+- Why flexbility develops slower than muscle size/strength
+- Recommended flexibility/mobility program
+- My journey from not being able to touch my to 'that flexible guy'
 
 ## Tools
 
