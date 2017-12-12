@@ -1,21 +1,29 @@
 # Lose weight
 
-Proposed infographic:
+Weight and bodyfat is not just about health, it is about emotion. Looking into the mirror should feel like an affirmation that you are doing well. A confirmation of your powerful and focussed will. It's not about competing with bodybuilders, it is about setting your goals and achieving them.
 
-- Food pyramid on the left with al sorts of foods crossed out, arrow pointing at food pyramid with specific foods on the right.
-- Sunrise graphic of person getting up with info balloons in kitchen showing a 30 grams of protein within 30 minutes of getting up
-- Person about to eat cake next to a friend (balloon?) holding a whip
+**Principles to lose/maintain weight**
 
-1. Decrease the amount of calories you consume
-	- Generate a list of 'whitelisted' foods
-	- Generate a number of meals with these foods
-2. Institute routines
-4. Set up accountability
+1. Eat fewer calories than your body uses
+1. Eat foods that make you feel full
+1. Minimise the amount of choices you have to make
+1. Institute habits that make it easy to make the right choices
+1. Set up accountability measures that keep you motivated
+
+**In this chapter**
+
+- How to calculate how many calories your body burns
+- How to estimate the calories in the food you eat
+- What foods make you feel full (satiety index)
+- What foods are absorbed quickly/slowly (glycemic index & load)
+- Effective accountability and motivation tactics
 
 ## Tools
 
 **General advice**
 
+- Generate a list of 'whitelisted' foods
+- Generate a number of meals with these foods
 - Do not keep food in the house that is not whitelisted
 - Prepare your meals in advance if you can
 - Eat before shopping for food
