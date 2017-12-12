@@ -89,3 +89,21 @@ Based on the prices in Amsterdam I have set up the following goals currently:
 | Me +1[^Me plus a partner I can sustain entirely to join my adventures] | 8200 | 100.8k | 2.52m |
 
 ## Investing money
+
+My investment philosophy is quite straightforward and basically a copy of Warren Buffett's advice: invest your age in bonds and the rest in stocks. Of course you should spread the risk by buying index funds of bonds and stocks instead of individual ones.
+
+Operationally I invest with 3 parties:
+
+- Brand New Day (index funds)
+- Binck (individual stocks)
+- Degiro (individual stocks)
+
+The reason I also use stock brokers that offer individual stocks is that I can't help myself. Like all human beings I think I have some sort of unique understandin that will help me predict the future slightly better than my neighbor. To satisfy this urge I have a small amount of play money that I am allowed to put into stocks. I consider this money lost. It's more like gambling than a long term plan.
+
+Brand New Day on the other hand is my favorite broker in the Netherlands. They offer a limited selection of index funds at exceptionally low fees. I have three accounts with them:
+
+- World index (age in bonds rest in stocks)
+- High risk small cap and developing nation index (small amount)
+- Tax advantaged account specific to the Netherlands
+
+Every month a set amount of my income is automatically transferred to these low cost accounts which will keep on growing over the coming decades.
