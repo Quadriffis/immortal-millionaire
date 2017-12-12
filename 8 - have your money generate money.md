@@ -1,14 +1,20 @@
 # Have your money generate money
 
-Proposed infographics:
+Money is neutral. Like water it flows where it is directed. But like water it will slip through your fingers if you don't know what to do with it. The world of investing can be as confusing as being lost in the woods. But like a walk in the woods, once you have found the path and follow it, it is quite a relaxing and wonderful place.
 
-- Our character with a person with a tie holding papers that have a 90% off label
-- Show 3 puppets of different ages with pie charts of different divisions
-- Bank statement showing recurring charges flyiing off the page to a piggy bank
+**Principles for investing**
 
 1. Find a low cost provider of index funds & bond index funds
-2. Set your profile to your age in a bond index and the rest in a stock index
+2. Set your profile to your age in a bond index fund and the rest in a stock index fund
 3. Set up automated transfers on a monthly basis
+
+**In this chapter**
+
+- Why the rich get richer and how you can use that to your advantage
+- How investing doesn't have to be very risky
+- The power of compound interest (and danger of compound fees)
+- How to actually get started
+- How I almost gave up on investing until I called Vanguard
 
 ## Tools
 
