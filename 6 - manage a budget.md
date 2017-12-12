@@ -1,28 +1,32 @@
 # Manage a budget
 
-Proposed infographic:
+There is a unique sense of power and confidence that comes from being in control of your finances. Explicitly defining what you can safely spend takes away all fear and guilt from using your money. A good framework simultaneously makes you feel liberated and helps you save money without decreasing your quality of life.
 
-- 1&2: Show a transparent house where there are text bubbles describig costs (maybe the person and his girlfriend are prepping to go out for dinner? Takeout coffee cup on the table?). Next to the house have two lists: must spend and optional spending
-- Show 3 cards with icons showing the different expense types. Only the daily operations card has an arrow to a wallet, the others to s cupboard.
-- Visualise the YNAB way, maybe ask then for permission? Not sure what the copyright status is.
-- Show a person spending on a pair of shoes with a halo around it. Also spending money on a present (with thought buble of another person's face)
+**Principles of budgeting**
 
 1. Create a list of monthly expenses you can't avoid (e.g. rent)
 2. Create a list of optional expenses that you consistently spend (e.g. coffee)
-3. Set up 3 accounts
-	- One for daily operations (card is in your wallet)
-	- One for automated payments (wages coming in, rent going out etc)
-	- One for savings and investment purposes (should not even have a card)
-4. Embrace the YNAB way
-	- Give Every Dollar [ or Euro ] A Job
-	- Embrace Your True Expenses
-	- Roll With The Punches
-	- Age Your Money
-5. Stick to your budget by embracing human nature
-	- Have a 'guilt free' budget category for frivolous spending
-	- Consider a 'sharing the love' account of money you spend only on others
+3. Set up multipls accounts for different purposes
+4. Give money a job as soon as it comes in
+5. Age your money (spend money you earned last month or longer ago)
+6. Automate your finances as much as possible
+
+**In this chapter**
+
+- How to calculate your expenses ahead of making them
+- How to channel human nature to help you with your budget
+- Recommendations for automating your financial life
+- How icecream played a central role in my financial education
 
 ## Tools
+
+**Suggested bank accounts**
+
+- One for daily operations (card is in your wallet)
+- One for automated payments (wages coming in, rent going out etc, *not* in your wallet)
+- One for savings and investment purposes (should not even have a card)
+
+**Online tools and communities**
 
 - You Need a Budget rules explained: https://www.youneedabudget.com/method/
 - Personal Finance subreddit: https://www.reddit.com/r/personalfinance/
@@ -101,7 +105,7 @@ The above table means that:
 
 I am a very big fan of a budgeting software called You Need A Budget (YNAB for short). They approach budgeting with 4 rules:
 
-1. Give Every Dollar [ or Euro ] A Job
+1. Give Every Dollar *(or Euro)* A Job
 2. Embrace Your True Expenses
 3. Roll With The Punches
 4. Age Your Money
@@ -117,6 +121,8 @@ Brief explatations (copied from their webpage):
 
 I highly suggest getting a free trial[^Use my referral link and get a free month: http://bit.ly/free-month-ynab] with them and give it a shot. It has been a significantly positive effect on my financial life.
 
+Specifically rules 1 (give your money a job) and 4 (age your money) are favorites of mine.
+
 ### Embrace flexibility and automation
 
 Budgeting is not about giving you an extra chore or making your life more difficult. I highly suggest structuring your financial life accordingly.
@@ -131,7 +137,7 @@ Budgeting is not about giving you an extra chore or making your life more diffic
 
 ## How I found out
 
-My father has done a lot of projects in Croatia. For the family that meant we went to visit this sunny mediteranean country pretty much every summer. One thing that got me and my brothers in a frenzy was the difference in currency. One euro was usually the equivalent of 7 Croatian kunas. The weeks before the holiday we turned the house upside down for kunas, either those left from last holiday or pocket change my dad left lying around.
+My father has done a lot of entrepreneurial projects in Croatia. For the family that meant we went to visit this sunny mediteranean country pretty much every summer. One thing that got me and my brothers in a frenzy was the difference in currency. One euro was usually the equivalent of 7 Croatian kunas. The weeks before the holiday we turned the house upside down for kunas, either those left from last holiday or pocket change my dad left lying around.
 
 Money played an important role for us children in the holidays. We each got 10 kunas a day to spend as we saw fit. In practice this meant it was icecream money. It's not that my parents didn't buy us icecream, but we didn't get to decide when they would buy us frozen deliciousness.
 
