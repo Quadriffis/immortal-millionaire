@@ -16,9 +16,9 @@ The following section will detail how to get to a point where you know exactly:
 
 The goal of money management is to become fi/re: Financially Independent / Retired.
 
-The magic that makes this possible is that you can make your money generate income through relatively low risk investment strategies that have stood the test of time. We live in a golden age for those who take time to decypher the basic rules of our monetary system.
+The magic that makes this possible is that you can make your money generate income through relatively low risk investment strategies that have stood the test of time. We live in a golden age for those who take time to decipher the basic rules of our monetary system.
 
-THe idea behind fi/re is that you invest a certain amount of money that will on a yearly basis generate income for you. The amazing thing there is that the amount of money you have does not decrease on a yearly basis, meaning you can hypothetically live off of it forever.
+The idea behind fi/re is that you invest a certain amount of money that will on a yearly basis generate income for you. The amazing thing there is that the amount of money you have does not decrease on a yearly basis, meaning you can hypothetically live off of it forever.
 
 Note: many people who reach fi/re do not actually retire, but rather spend time only on jobs/clients/projects that they really enjoy. They feel no pressure to take a job they don't like.
 
@@ -31,4 +31,3 @@ I order to reach fi/re we need three pieces of crucial knowledge:
 - How you effectively invest money
 
 The coming sections will explore these elements.
-

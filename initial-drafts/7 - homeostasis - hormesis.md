@@ -34,16 +34,17 @@ Benefits of saunas include:
 - Improved cardiovascular function
 - Increased blood flow
 - Increases red blood cell count
-- Metabolic improvements (oxygen transport, heat schock proteins)
+- Metabolic improvements (oxygen transport, heat shock proteins)
 - Enhanced endurance
 - Improved muscle growth (paired with exercise)
 - Growth hormone release (downstream effects on mTOR and FOXO pathways)
 - Increased insulin sensitivity
 - Increased life span (in animals)
-- Neurogenesis[^neurogenesis] in the brain (through BDNF[^bdnf])
+- Neurogenesis[^neurogenesis]() in the brain (through BDNF[^bdnf]())
 
 As for frequency, research so far seems to indicate that more is better. Going twice a week beats once, going 5 times beats 4, etc.
 
 ## Cold exposure
 
 The oposite of controlled heat exposure, controlled extreme cold exposure (ice baths), also confers a number of benefits.
+
