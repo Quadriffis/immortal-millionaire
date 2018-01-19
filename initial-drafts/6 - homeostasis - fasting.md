@@ -8,11 +8,11 @@ subtitle: Hacking your health & wealth for a better life
 
 The body has a number of control mechanisms that function as feedback loops. This system is called homeostasis. An example is how the human liver produces less cholesterol if the diet contains a lot of it.
 
-Homeostatis often works through generalised mechanisms. For example environmental stressors will trigger defense mechanisms. Exposure to heat through saunas increase the production of heat schock proteins that defend the body from heat damage.
+Homeostasis often works through generalised mechanisms. For example environmental stressors will trigger defence mechanisms. Exposure to heat through saunas increase the production of heat shock proteins that defend the body from heat damage.
 
-Interestingly the mechanisms sometimes are more general than one would expect. Fasting for example also increases the creation of heat schock proteins.
+Interestingly the mechanisms sometimes are more general than one would expect. Fasting for example also increases the creation of heat shock proteins.
 
-In this section we are looking to trigger stressors in a controlled way, and thus activating defense mechanisms that defend our body from actually harmful situations.
+In this section we are looking to trigger stressors in a controlled way, and thus activating defence mechanisms that defend our body from actually harmful situations.
 
 Note that the diets described here are **not** intended for weight loss per se.
 
@@ -27,7 +27,7 @@ The building cycle is important since it is the time when we build new cells, pr
 
 The destroy/repair state is important since broken cells and components can result in nasty things like cancer.
 
-The caveat here is that these states can't optimally function at the same time. When the build state is dominant the repair state is less active and vica versa.
+The caveat here is that these states can't optimally function at the same time. When the build state is dominant the repair state is less active and vice versa.
 
 Interestingly *eating stimulates building* and *fasting stimulates repair*. In other words, feeding your body will trigger it to use those nutrients. Not feeding your body will allow your body to repair itself on a cellular level.
 
@@ -57,7 +57,7 @@ So far there are strong indications for:
 - Reduce risk of mental disease
 - Increase lifespan
 
-There are a lot of cellular and metabolic effects that you can read about online[^fasting-writeup].
+There are a lot of cellular and metabolic effects that you can read about online[^1].
 
 While any extreme lifestyle change should be discussed with a medical professional, there are for most people no health risks involved in fasting.
 
@@ -65,17 +65,17 @@ While any extreme lifestyle change should be discussed with a medical profession
 
 The body usually relies on a glycolytic pathway for energy. In other words, we usually run on carbohydrates. The body mostly supplies energy to the muscle and brain through blood sugar.
 
-For many people this is the reason they feel low when they have not eaten (low blood sugar) or when they have just eated (blood sugar spike followed by insulin spike).
+For many people this is the reason they feel low when they have not eaten (low blood sugar) or when they have just eaten (blood sugar spike followed by insulin spike).
 
-There is an alternative energy mechanism called ketosis. In this state the body does not break down carbohydrates but rather fats. Instead of using blood sugar for primary energy delvery, the body uses ketones.
+There is an alternative energy mechanism called ketosis. In this state the body does not break down carbohydrates but rather fats. Instead of using blood sugar for primary energy delivery, the body uses ketones.
 
 Being in ketosis has a host of health benefits. The list is very similar to fasting. Indeed a great deal of the benefits of fasting stem from the fast that fasting helps trigger ketosis.
 
-Entering a ketotic state is done by depriving the body of carbohydtates. A ketogenic diet is often 80%+ fats. Longer fasts result in ketosis, and thus supply benefits similar to the ketogenic diet.
+Entering a ketotic state is done by depriving the body of carbohydrates. A ketogenic diet is often 80%+ fats. Longer fasts result in ketosis, and thus supply benefits similar to the ketogenic diet.
 
 ### Time restricted feeding
 
-The human body has an internal clock referred to as the circadian rhythm. There are two important factors that help your body callibrate it's clock:
+The human body has an internal clock referred to as the circadian rhythm. There are two important factors that help your body calibrate it's clock:
 
 - The first moment you are exposed to bright light
 - The first moment you use your liver
@@ -88,7 +88,7 @@ There as strong indications that eating within a window that falls in the waking
 
 It takes the body a while to enter recovery mode once you start fasting. When you eat something during a fasted state the countdown timer starts anew.
 
-One aproach to implementing fasting into your life is intermittent fasting. Popular approaches include:
+One approach to implementing fasting into your life is intermittent fasting. Popular approaches include:
 
 *The 16/8 approach* where you only eat for 8 consecutive hours a day and fast the rest of the day. For example only eating between 16:00 and 24:00. When the window is doesn't matter (caveats later on), what matters is that for 16 hours you do not eat or drink anything with caloric content. Most fasters do still consume coffee and tea without milk and sugar.
 
@@ -102,7 +102,7 @@ Longer fasts result in more dramatic health benefits. They are however also hard
 
 Dr Valter Longo pioneered a multi-day fasting approach that still allows for some nutrition, but is very selective in what one is allowed to eat. The idea is to keep the effects of fasting, while not fasting entirely.
 
-While the official fast mimicking diet is distributed as a commercial product, the tennets of this approach are:
+While the official fast mimicking diet is distributed as a commercial product, the tenets of this approach are:
 
 - Low caloric intake (sub 1000 kCal)
 - Low protein & carbohydrate (under 10% & 50%)
@@ -141,7 +141,7 @@ The rules are simple:
 | 98h (day 4) | Water. Tsp salt. |
 | day 5 | Breakfast. |
 
-The coconot oil is rich in medium chain triglycerides (MCT) which are easy to convert into ketones. It is recommended to buy a device to measure your blood ketones[^abbott]. Urine strips are not very accurate.
+The coconut oil is rich in medium chain triglycerides (MCT) which are easy to convert into ketones. It is recommended to buy a device to measure your blood ketones[^2]. Urine strips are not very accurate.
 
 Tips to make the most out of your fast:
 
@@ -150,7 +150,8 @@ Tips to make the most out of your fast:
 - Go for a brisk 1 hour walk on the first day (help get into ketosis)
 - If you must have coffee/tea the whole duration (very suboptimal!) go for teas without antioxidants/caffeine (e.g. camomile) and coffee without sugar/milk.
 
-[^fasting-writeup]: [The science of fasting for longevity & health](https://www.skillcollector.com/post/i-didnt-eat-for-105-hours-science-benefits/)
-[^neurogenesis]: Growth of nerve cells
-[^bdnf]: Brain derived neurotrophic factor
-[^abbott]: For example the Abbott Freestyle Optium Neo. You need to get both glucose and ketone strips. Ketone strips are markedly more expensive than glucose ones.
+[^1]:	[The science of fasting for longevity & health][1]
+
+[^2]:	For example the Abbott Freestyle Optium Neo. You need to get both glucose and ketone strips. Ketone strips are markedly more expensive than glucose ones.
+
+[1]:	https://www.skillcollector.com/post/i-didnt-eat-for-105-hours-science-benefits/

@@ -25,7 +25,7 @@ Some interesting values include common deficiencies like:
 - Vitamin B12
 - Magnesium
 
-Some values are useful simly to have a baseline of your usual values, these include:
+Some values are useful simply to have a baseline of your usual values, these include:
 
 - Iron
 - Lipid panel (cholesterol etc)
@@ -47,16 +47,16 @@ Don't blindly take supplements:
 
 ### Vitamin D
 
-Vitamin d is a steroid hormone. That is to say that this substance has the ability to reach the cell nucleus (where the DNA is kept) and unfluence what genes are expressed. In other words: vitamin d changes what part of your DNA is on and off.
+Vitamin d is a steroid hormone. That is to say that this substance has the ability to reach the cell nucleus (where the DNA is kept) and influence what genes are expressed. In other words: vitamin d changes what part of your DNA is on and off.
 
 Humans have two main sources of vitamin d:
 
 - Food
 - The sun
 
-Foods high in vitamin d include for example fatty fish. One stereotypial example is cod liver oil.
+Foods high in vitamin d include for example fatty fish. One stereotypical example is cod liver oil.
 
-Our skin is able to generate vitamin d from sunlight as well. The problem there is that in the recent parts of human existance we've spent a lot of time indoors and covering 90% of our skin surface area with sun blocking clothing.
+Our skin is able to generate vitamin d from sunlight as well. The problem there is that in the recent parts of human existence we've spent a lot of time indoors and covering 90% of our skin surface area with sun blocking clothing.
 
 Some common reasons for low vitamin d levels include:
 
@@ -81,7 +81,7 @@ There are a number of issues for many people:
 
 > Many people don't consume enough magnesium and magnesium supplements are often bad
 
-The issue with magnesium supplements is that different types are absorbed better or worse. Not only that, but it appears that different types are prefered by certain organs.
+The issue with magnesium supplements is that different types are absorbed better or worse. Not only that, but it appears that different types are preferred by certain organs.
 
 The important magnesium types to know:
 
@@ -99,19 +99,19 @@ The B vitamin group for example is well known to stimulate certain types of grow
 
 Likewise for many male consumers taking extra iron is a terrible idea and has shown to increase risk for some disease, whereas this is less so the case for women (who lose iron through menstruation).
 
-> Don't get me wrong: no supplement is inheretly good or bad
+> Don't get me wrong: no supplement is inherently good or bad
 
 Blindly taking highly concentrated supplements is a terrible idea though. Test yourself first.
 
 ## Interesting supplements
 
-There are a number of supplements that have the potential to support a good quality of life, or to extend lifespan potentially. Many of these are quite exterimental and have only proven to work in theory or on animal models.
+There are a number of supplements that have the potential to support a good quality of life, or to extend lifespan potentially. Many of these are quite experimental and have only proven to work in theory or on animal models.
 
 ### Lithium Ororate
 
-Lithium is associated in high dosages with the treatment of psycheatric disorders. It is however in low dosages an essential mineral for optimal health. It occurs naturally in low dosages (up to 0.170 mg/L in tap water). The argument has been made in a New York Times atricle[^Should we all take a bit of lithium? (New York Times, 2014): https://www.nytimes.com/2014/09/14/opinion/sunday/should-we-all-take-a-bit-of-lithium.html] that we could all benefit from a low dosage of lithium on a daily basis.
+Lithium is associated in high dosages with the treatment of psychiatric disorders. It is however in low dosages an essential mineral for optimal health. It occurs naturally in low dosages (up to 0.170 mg/L in tap water). The argument has been made in a New York Times article[^Should we all take a bit of lithium? (New York Times, 2014): https://www.nytimes.com/2014/09/14/opinion/sunday/should-we-all-take-a-bit-of-lithium.html]() that we could all benefit from a low dosage of lithium on a daily basis.
 
-While large theraputic dosages are classified as medicine (and rightfully so) the smaller dosed supplements are available for purchase from many supplement vendors. The dosages are greatly smaller than those in the medicinal form.
+While large therapeutic dosages are classified as medicine (and rightfully so) the smaller dosed supplements are available for purchase from many supplement vendors. The dosages are greatly smaller than those in the medicinal form.
 
 ### Collagen
 
@@ -119,7 +119,7 @@ The human skin is kept in shape by a scaffold made of a protein structure called
 
 While preventing damage by means of sunscreen is good advice, is doesn't help your body to repair damage that is bound to occur because of daily sun exposure.
 
-> Note that sun exposure is positive for many health factors, the downside to the positive effects is skin aging.
+> Note that sun exposure is positive for many health factors, the downside to the positive effects is skin ageing.
 
 Intuitively it makes sense that if a certain structure in the body breaks down (collagen) you can stimulate growth by consuming more building blocks (in the form of said collagen). While the body it very cabable of conctructing collagen from other protein sources, consuming collagen as such seems to have positive effects on skin elasticity.
 
@@ -129,9 +129,9 @@ Note that those looking to supplement collagen don't have to put up with dissolv
 
 ### Metformin
 
-Originally a diabetes drug, this compound has shown promise in the fiels of life extension. It gained popularity in recent years, especially in places like silicon valley where self-experimentation is quite widespread.
+Originally a diabetes drug, this compound has shown promise in the field of life extension. It gained popularity in recent years, especially in places like silicon valley where self-experimentation is quite widespread.
 
-Depending on your country this compound may or may not be available for sale without perscription. Regardless of availability it is advisable to cosult a medical professional before choosing to take a compound with strong effects like metformin.
+Depending on your country this compound may or may not be available for sale without prescription. Regardless of availability it is advisable to consult a medical professional before choosing to take a compound with strong effects like metformin.
 
 ### Rapamicin
 
@@ -143,7 +143,7 @@ The research on humans however is not very extensive and the availability is low
 
 The class of adaptogens is a group of supplements that balances stress and relaxation responses. In essence these compounds give energy for those who are low and provide relaxation to those who are stressed.
 
-This may sound conflicting, but it makes sense when viewed through the lens that adaptogens work at restoring a baseline. Instead of a substance that per definition causes a dose-dependent effect in a predicatble direction (e.g. alcohol) they restore balance to functions that are out of whack.
+This may sound conflicting, but it makes sense when viewed through the lens that adaptogens work at restoring a baseline. Instead of a substance that per definition causes a dose-dependent effect in a predictable direction (e.g. alcohol) they restore balance to functions that are out of whack.
 
 The exact mechanisms differ per supplement, and for some the exact mechanisms are not known. For many though the adaptogenic effect has been robustly documented.
 
@@ -153,14 +153,15 @@ Interesting adaptogens include:
 - Reishi mushroom extracts
 - Rhodiola
 
-Depending on your geographcial location some are easier to find than others.
+Depending on your geographical location some are easier to find than others.
 
 ### Fish oil (omega 3's)
 
-Fish oil is known as a beneficial supplement in pop culture. The effects that are often tauted include their beneficial effect on the cardiovascular system and cholesterol levels. More and more research however seems to indicate that omega 3 fatty acids also have many benefits for neurological attributes like cognitive function and mood levels.
+Fish oil is known as a beneficial supplement in pop culture. The effects that are often touted include their beneficial effect on the cardiovascular system and cholesterol levels. More and more research however seems to indicate that omega 3 fatty acids also have many benefits for neurological attributes like cognitive function and mood levels.
 
 For this supplement it is important to realise that fatty acids are essential for the structure and functioning of cells. In essence human cells are bags of water, willed with molecular machinery (DNA, mitochondria etc). The 'bag' that is the border of the cell basically uses lipids as an important building block. The right lipids keep the cell membrane flexible and functioning optimally. This is very important for many things, including nerve function.
 
 On supplement bottles you will often find references to EPA and DHA. These are two forms of omega 3 fatty acids. Their structure differs and research indicates that their effect differs as well.
 
 If you plan to take fish oil on a long term basis make sure that you choose a reputable supplement that is adequately purified. The fish used to produce the oil may contain toxins like heavy metals (especially if the source fish is high up the food chain) that need to be filtered out.
+
