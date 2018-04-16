@@ -1,0 +1,5 @@
+The images in this folder are copied from http://db.everkinetic.com/ under the Creative Commons Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0) license. See [this webpage](https://creativecommons.org/licenses/by-sa/3.0) for a full version of the license. Their attribution request at the time of reading (april 2018) stated:
+
+> All of our exercise images are licensed under Creative Commons (BA-SA). In short this means you can include our images on your site or in an app provided you give Everkinetic proper attribution. This is usually as simple as linking back to us from your site.
+
+The images in the folder titled 'adapted' were modified by me and distributed under that same [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) license. The .afphoto files were created using Affinity Photo.
